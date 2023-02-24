@@ -1,5 +1,7 @@
 # 325BCE
-Low Buck DIY Euclidean Pattern Generator
+![Screenshot](325BCEPanel.png)
+<br>
+Inexpensive DIY Euclidean Pattern Generator
 
 Does the world really need another Euclidean Pattern Generator?<br>
 Of Course Not!<br>
