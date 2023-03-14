@@ -1,0 +1,3591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="35.077mm"
+   height="115.087mm"
+   viewBox="4010 2948 138.1 453.1"
+   version="1.1"
+   id="svg2742"
+   sodipodi:docname="Top.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2746" />
+  <sodipodi:namedview
+     id="namedview2744"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.534593"
+     inkscape:cx="52.782724"
+     inkscape:cy="196.46903"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2742" />
+  <title
+     id="title1402" />
+  <style
+     type="text/css"
+     id="style1404">
+*[layerid=&quot;1&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;2&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;3&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;4&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;5&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;6&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;7&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;8&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;9&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;10&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;11&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;12&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;13&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;14&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;15&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;19&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;21&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;22&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;23&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;24&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;25&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;26&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;27&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;28&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;29&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;30&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;31&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;32&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;33&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;34&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;35&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;36&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;37&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;38&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;39&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;40&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;41&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;42&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;43&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;44&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;45&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;46&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;47&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;48&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;49&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;50&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;51&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;52&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;99&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;100&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;101&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;Hole&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;DRCError&quot;] {stroke:#000000;fill:#000000;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #FFFFFF;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <rect
+     x="4010"
+     y="2948"
+     width="138.10001"
+     height="453.10001"
+     fill="#ffffff"
+     stroke="none"
+     id="rect1406"
+     style="stroke:#000000;stroke-width:1.96853;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4043,2989.5"
+     layerid="11"
+     number="1"
+     net="J1_P$3_TIP"
+     plated="Y"
+     id="gge6096"
+     locked="0"
+     c_rotation="180"
+     c_width="7.4"
+     c_height="7.4"
+     title="J1_P$3_TIP"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4043"
+       cy="2989.5"
+       rx="3.9000000000000004"
+       ry="3.9000000000000004"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1648" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4113,2989.5"
+     layerid="11"
+     number="1"
+     net="D3_2"
+     plated="Y"
+     id="gge6186"
+     locked="0"
+     c_rotation="0"
+     c_width="7.4"
+     c_height="7.4"
+     title="D3_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4113"
+       cy="2989.5"
+       rx="3.9000000000000004"
+       ry="3.9000000000000004"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1654" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4026.445,2978"
+     layerid="11"
+     number="P$3_TIP"
+     net="J1_P$3_TIP"
+     plated="Y"
+     id="gge591"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title="J1_P$3_TIP"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4021.868 2982.577 4021.868 2973.423 4031.022 2973.423 4031.022 2982.577"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1660" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4058.807,2978"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge606"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4054.23 2982.577 4054.23 2973.423 4063.384 2973.423 4063.384 2982.577"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1663" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4071.012,2978"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge621"
+     locked="0"
+     c_rotation="90"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4067.026 2981.986 4067.026 2974.014 4074.998 2974.014 4074.998 2981.986"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1666" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4038.504,3278.524"
+     layerid="11"
+     number="P$3_TIP"
+     net="STEPSCV"
+     plated="Y"
+     id="gge663"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title="STEPSCV"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4033.9269 3273.947 4043.0809 3273.947 4043.0809 3283.101 4033.9269 3283.101"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1669" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4038.504,3310.886"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge678"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4033.9269 3306.309 4043.0809 3306.309 4043.0809 3315.463 4033.9269 3315.463"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1672" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4038.504,3323.091"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge693"
+     locked="0"
+     c_rotation="0"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4034.5179 3319.105 4042.4899 3319.105 4042.4899 3327.077 4034.5179 3327.077"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1675" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4131.055,2978"
+     layerid="11"
+     number="P$3_TIP"
+     net="D3_2"
+     plated="Y"
+     id="gge735"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title="D3_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4135.632 2973.423 4135.632 2982.577 4126.478 2982.577 4126.478 2973.423"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1678" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4098.693,2978"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge750"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4103.27 2973.423 4103.27 2982.577 4094.116 2982.577 4094.116 2973.423"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1681" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4086.488,2978"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge765"
+     locked="0"
+     c_rotation="270"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4090.474 2974.014 4090.474 2981.986 4082.502 2981.986 4082.502 2974.014"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1684" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3278.524"
+     layerid="11"
+     number="P$3_TIP"
+     net="PULSESCV"
+     plated="Y"
+     id="gge807"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title="PULSESCV"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4074.478 3273.947 4083.632 3273.947 4083.632 3283.101 4074.478 3283.101"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1687" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3310.886"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge822"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4074.478 3306.309 4083.632 3306.309 4083.632 3315.463 4074.478 3315.463"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1690" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3323.091"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge837"
+     locked="0"
+     c_rotation="0"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4075.069 3319.105 4083.041 3319.105 4083.041 3327.077 4075.069 3327.077"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1693" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4119.606,3278.524"
+     layerid="11"
+     number="P$3_TIP"
+     net="OFFSETCV"
+     plated="Y"
+     id="gge879"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title="OFFSETCV"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4115.0291 3273.947 4124.1831 3273.947 4124.1831 3283.101 4115.0291 3283.101"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1696" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4119.606,3310.886"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge894"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4115.0291 3306.309 4124.1831 3306.309 4124.1831 3315.463 4115.0291 3315.463"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1699" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4119.606,3323.091"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge909"
+     locked="0"
+     c_rotation="0"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4115.6201 3319.105 4123.5921 3319.105 4123.5921 3327.077 4115.6201 3327.077"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1702" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4132.756,3372.382"
+     layerid="11"
+     number="P$3_TIP"
+     net="J6_P$3_TIP"
+     plated="Y"
+     id="gge951"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title="J6_P$3_TIP"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4137.3326 3367.805 4137.3326 3376.959 4128.1786 3376.959 4128.1786 3367.805"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1705" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4100.394,3372.382"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge966"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4104.9706 3367.805 4104.9706 3376.959 4095.8166 3376.959 4095.8166 3367.805"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1708" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4088.189,3372.382"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge981"
+     locked="0"
+     c_rotation="270"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4092.1746 3368.396 4092.1746 3376.368 4084.2026 3376.368 4084.2026 3368.396"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1711" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4034,3108.5"
+     layerid="11"
+     number="1"
+     net="R4_2"
+     plated="Y"
+     id="gge1050"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="R4_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4034"
+       cy="3108.5"
+       rx="2.9559"
+       ry="2.9559"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1714" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4034,3118.5"
+     layerid="11"
+     number="2"
+     net="GND"
+     plated="Y"
+     id="gge1065"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4034"
+       cy="3118.5"
+       rx="2.9559"
+       ry="2.9559"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1717" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4129,3339.5"
+     layerid="11"
+     number="1"
+     net="LED2_1"
+     plated="Y"
+     id="gge1134"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="LED2_1"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4129"
+       cy="3339.5"
+       rx="2.9559"
+       ry="2.9559"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1720" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4129,3349.5"
+     layerid="11"
+     number="2"
+     net="GND"
+     plated="Y"
+     id="gge1149"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4129"
+       cy="3349.5"
+       rx="2.9559"
+       ry="2.9559"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1723" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.055,3063.8"
+     layerid="11"
+     number="1"
+     net="GND"
+     plated="Y"
+     id="gge1701"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <ellipse
+       cx="4069.055"
+       cy="3063.8"
+       rx="3.4"
+       ry="3.4"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1726" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3063.8"
+     layerid="11"
+     number="2"
+     net="STEPSPOT"
+     plated="Y"
+     id="gge1716"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="STEPSPOT"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4079.055"
+       cy="3063.8"
+       rx="3.2"
+       ry="3.2"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1729" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4089.055,3063.8"
+     layerid="11"
+     number="3"
+     net="+5V"
+     plated="Y"
+     id="gge1731"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="+5V"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4089.055"
+       cy="3063.8"
+       rx="3.2"
+       ry="3.2"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1732" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4099.055,3033.8"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="gge1746"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <path
+       d="M4099.055 3035.178L4099.055 3032.4221"
+       layerid="7"
+       stroke-width="7.8866"
+       c_etype="pad_outer"
+       id="path1735" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4059.055,3033.8"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="gge1761"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <path
+       d="M4059.055 3035.178L4059.055 3032.4221"
+       layerid="7"
+       stroke-width="7.8866"
+       c_etype="pad_outer"
+       id="path1738" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.055,3142.54"
+     layerid="11"
+     number="1"
+     net="GND"
+     plated="Y"
+     id="gge1800"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <ellipse
+       cx="4069.055"
+       cy="3142.54"
+       rx="3.4"
+       ry="3.4"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1741" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3142.54"
+     layerid="11"
+     number="2"
+     net="PULSESPOT"
+     plated="Y"
+     id="gge1815"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="PULSESPOT"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4079.055"
+       cy="3142.54"
+       rx="3.2"
+       ry="3.2"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1744" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4089.055,3142.54"
+     layerid="11"
+     number="3"
+     net="+5V"
+     plated="Y"
+     id="gge1830"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="+5V"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4089.055"
+       cy="3142.54"
+       rx="3.2"
+       ry="3.2"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1747" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4099.055,3112.54"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="gge1845"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <path
+       d="M4099.055 3113.918L4099.055 3111.1621"
+       layerid="7"
+       stroke-width="7.8866"
+       c_etype="pad_outer"
+       id="path1750" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4059.055,3112.54"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="gge1860"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <path
+       d="M4059.055 3113.918L4059.055 3111.1621"
+       layerid="7"
+       stroke-width="7.8866"
+       c_etype="pad_outer"
+       id="path1753" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.055,3221.28"
+     layerid="11"
+     number="1"
+     net="GND"
+     plated="Y"
+     id="gge1899"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <ellipse
+       cx="4069.055"
+       cy="3221.28"
+       rx="3.4"
+       ry="3.4"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1756" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3221.28"
+     layerid="11"
+     number="2"
+     net="OFFSETPOT"
+     plated="Y"
+     id="gge1914"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="OFFSETPOT"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4079.055"
+       cy="3221.28"
+       rx="3.2"
+       ry="3.2"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1759" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4089.055,3221.28"
+     layerid="11"
+     number="3"
+     net="+5V"
+     plated="Y"
+     id="gge1929"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="+5V"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4089.055"
+       cy="3221.28"
+       rx="3.2"
+       ry="3.2"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1762" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4099.055,3191.28"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="gge1944"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <path
+       d="M4099.055 3192.658L4099.055 3189.9021"
+       layerid="7"
+       stroke-width="7.8866"
+       c_etype="pad_outer"
+       id="path1765" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4059.055,3191.28"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="gge1959"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <path
+       d="M4059.055 3192.658L4059.055 3189.9021"
+       layerid="7"
+       stroke-width="7.8866"
+       c_etype="pad_outer"
+       id="path1768" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4025.354,3372.382"
+     layerid="11"
+     number="P$3_TIP"
+     net="R8_2"
+     plated="Y"
+     id="gge3342"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title="R8_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4020.7774 3376.959 4020.7774 3367.805 4029.9314 3367.805 4029.9314 3376.959"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1771" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4057.716,3372.382"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="gge3357"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4053.1394 3376.959 4053.1394 3367.805 4062.2934 3367.805 4062.2934 3376.959"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1774" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.921,3372.382"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="gge3372"
+     locked="0"
+     c_rotation="90"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       points="4065.9354 3376.368 4065.9354 3368.396 4073.9074 3368.396 4073.9074 3376.368"
+       layerid="7"
+       stroke-width="0.4"
+       c_etype="pad_outer"
+       id="polygon1777" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4029,3339.5"
+     layerid="11"
+     number="1"
+     net="R7_2"
+     plated="Y"
+     id="gge5010"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="R7_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4029"
+       cy="3339.5"
+       rx="2.9559"
+       ry="2.9559"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1780" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4029,3349.5"
+     layerid="11"
+     number="2"
+     net="GND"
+     plated="Y"
+     id="gge5025"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       cx="4029"
+       cy="3349.5"
+       rx="2.9559"
+       ry="2.9559"
+       layerid="7"
+       stroke-width="0"
+       c_etype="pad_outer"
+       id="ellipse1783" />
+  </g>
+  <polyline
+     points="4063 3217.5 4063 3205.5"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="1"
+     net="PULSESCV"
+     id="gge4851"
+     locked="0" />
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4043,2989.5"
+     layerid="11"
+     number="1"
+     net="J1_P$3_TIP"
+     plated="Y"
+     id="g2283"
+     locked="0"
+     c_rotation="180"
+     c_width="7.4"
+     c_height="7.4"
+     title="J1_P$3_TIP"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4043"
+       cy="2989.5"
+       rx="3.7"
+       ry="3.7"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2279" />
+    <circle
+       c_etype="pad_hole"
+       cx="4043"
+       cy="2989.5"
+       r="1.77"
+       layerid="11"
+       stroke-width="0"
+       id="circle2281" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4113,2989.5"
+     layerid="11"
+     number="1"
+     net="D3_2"
+     plated="Y"
+     id="g2295"
+     locked="0"
+     c_rotation="0"
+     c_width="7.4"
+     c_height="7.4"
+     title="D3_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4113"
+       cy="2989.5"
+       rx="3.7"
+       ry="3.7"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2291" />
+    <circle
+       c_etype="pad_hole"
+       cx="4113"
+       cy="2989.5"
+       r="1.77"
+       layerid="11"
+       stroke-width="0"
+       id="circle2293" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4026.445,2978"
+     layerid="11"
+     number="P$3_TIP"
+     net="J1_P$3_TIP"
+     plated="Y"
+     id="g2307"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title="J1_P$3_TIP"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4021.868 2982.577 4021.868 2973.423 4031.022 2973.423 4031.022 2982.577"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2303" />
+    <polyline
+       c_etype="pad_hole"
+       points="4026.445 2978.01 4026.445 2977.99"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2305" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4058.807,2978"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2313"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4054.23 2982.577 4054.23 2973.423 4063.384 2973.423 4063.384 2982.577"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2309" />
+    <polyline
+       c_etype="pad_hole"
+       points="4058.807 2978.01 4058.807 2977.99"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2311" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4071.012,2978"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2319"
+     locked="0"
+     c_rotation="90"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4067.026 2981.986 4067.026 2974.014 4074.998 2974.014 4074.998 2981.986"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2315" />
+    <polyline
+       c_etype="pad_hole"
+       points="4071.012 2978.0005 4071.012 2977.9995"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2317" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4038.504,3278.524"
+     layerid="11"
+     number="P$3_TIP"
+     net="STEPSCV"
+     plated="Y"
+     id="g2325"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title="STEPSCV"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4033.9269 3273.947 4043.0809 3273.947 4043.0809 3283.101 4033.9269 3283.101"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2321" />
+    <polyline
+       c_etype="pad_hole"
+       points="4038.4939 3278.524 4038.5139 3278.524"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2323" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4038.504,3310.886"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2331"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4033.9269 3306.309 4043.0809 3306.309 4043.0809 3315.463 4033.9269 3315.463"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2327" />
+    <polyline
+       c_etype="pad_hole"
+       points="4038.4939 3310.886 4038.5139 3310.886"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2329" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4038.504,3323.091"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2337"
+     locked="0"
+     c_rotation="0"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4034.5179 3319.105 4042.4899 3319.105 4042.4899 3327.077 4034.5179 3327.077"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2333" />
+    <polyline
+       c_etype="pad_hole"
+       points="4038.5034 3323.091 4038.5044 3323.091"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2335" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4131.055,2978"
+     layerid="11"
+     number="P$3_TIP"
+     net="D3_2"
+     plated="Y"
+     id="g2343"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title="D3_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4135.632 2973.423 4135.632 2982.577 4126.478 2982.577 4126.478 2973.423"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2339" />
+    <polyline
+       c_etype="pad_hole"
+       points="4131.055 2977.99 4131.055 2978.01"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2341" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4098.693,2978"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2349"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4103.27 2973.423 4103.27 2982.577 4094.116 2982.577 4094.116 2973.423"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2345" />
+    <polyline
+       c_etype="pad_hole"
+       points="4098.693 2977.99 4098.693 2978.01"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2347" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4086.488,2978"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2355"
+     locked="0"
+     c_rotation="270"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4090.474 2974.014 4090.474 2981.986 4082.502 2981.986 4082.502 2974.014"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2351" />
+    <polyline
+       c_etype="pad_hole"
+       points="4086.488 2977.9995 4086.488 2978.0005"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2353" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3278.524"
+     layerid="11"
+     number="P$3_TIP"
+     net="PULSESCV"
+     plated="Y"
+     id="g2361"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title="PULSESCV"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4074.478 3273.947 4083.632 3273.947 4083.632 3283.101 4074.478 3283.101"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2357" />
+    <polyline
+       c_etype="pad_hole"
+       points="4079.045 3278.524 4079.065 3278.524"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2359" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3310.886"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2367"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4074.478 3306.309 4083.632 3306.309 4083.632 3315.463 4074.478 3315.463"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2363" />
+    <polyline
+       c_etype="pad_hole"
+       points="4079.045 3310.886 4079.065 3310.886"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2365" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3323.091"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2373"
+     locked="0"
+     c_rotation="0"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4075.069 3319.105 4083.041 3319.105 4083.041 3327.077 4075.069 3327.077"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2369" />
+    <polyline
+       c_etype="pad_hole"
+       points="4079.0545 3323.091 4079.0555 3323.091"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2371" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4119.606,3278.524"
+     layerid="11"
+     number="P$3_TIP"
+     net="OFFSETCV"
+     plated="Y"
+     id="g2379"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title="OFFSETCV"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4115.0291 3273.947 4124.1831 3273.947 4124.1831 3283.101 4115.0291 3283.101"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2375" />
+    <polyline
+       c_etype="pad_hole"
+       points="4119.5961 3278.524 4119.6161 3278.524"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2377" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4119.606,3310.886"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2385"
+     locked="0"
+     c_rotation="0"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4115.0291 3306.309 4124.1831 3306.309 4124.1831 3315.463 4115.0291 3315.463"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2381" />
+    <polyline
+       c_etype="pad_hole"
+       points="4119.5961 3310.886 4119.6161 3310.886"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2383" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4119.606,3323.091"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2391"
+     locked="0"
+     c_rotation="0"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4115.6201 3319.105 4123.5921 3319.105 4123.5921 3327.077 4115.6201 3327.077"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2387" />
+    <polyline
+       c_etype="pad_hole"
+       points="4119.6056 3323.091 4119.6066 3323.091"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2389" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4132.756,3372.382"
+     layerid="11"
+     number="P$3_TIP"
+     net="J6_P$3_TIP"
+     plated="Y"
+     id="g2397"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title="J6_P$3_TIP"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4137.3326 3367.805 4137.3326 3376.959 4128.1786 3376.959 4128.1786 3367.805"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2393" />
+    <polyline
+       c_etype="pad_hole"
+       points="4132.7556 3372.372 4132.7556 3372.392"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2395" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4100.394,3372.382"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2403"
+     locked="0"
+     c_rotation="270"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4104.9706 3367.805 4104.9706 3376.959 4095.8166 3376.959 4095.8166 3367.805"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2399" />
+    <polyline
+       c_etype="pad_hole"
+       points="4100.3936 3372.372 4100.3936 3372.392"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2401" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4088.189,3372.382"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2409"
+     locked="0"
+     c_rotation="270"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4092.1746 3368.396 4092.1746 3376.368 4084.2026 3376.368 4084.2026 3368.396"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2405" />
+    <polyline
+       c_etype="pad_hole"
+       points="4088.1886 3372.3815 4088.1886 3372.3825"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2407" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4034,3108.5"
+     layerid="11"
+     number="1"
+     net="R4_2"
+     plated="Y"
+     id="g2415"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="R4_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4034"
+       cy="3108.5"
+       rx="2.7559"
+       ry="2.7559"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2411" />
+    <circle
+       c_etype="pad_hole"
+       cx="4034"
+       cy="3108.5"
+       r="1.7717"
+       layerid="11"
+       stroke-width="0"
+       id="circle2413" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4034,3118.5"
+     layerid="11"
+     number="2"
+     net="GND"
+     plated="Y"
+     id="g2421"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4034"
+       cy="3118.5"
+       rx="2.7559"
+       ry="2.7559"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2417" />
+    <circle
+       c_etype="pad_hole"
+       cx="4034"
+       cy="3118.5"
+       r="1.7717"
+       layerid="11"
+       stroke-width="0"
+       id="circle2419" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4129,3339.5"
+     layerid="11"
+     number="1"
+     net="LED2_1"
+     plated="Y"
+     id="g2427"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="LED2_1"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4129"
+       cy="3339.5"
+       rx="2.7559"
+       ry="2.7559"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2423" />
+    <circle
+       c_etype="pad_hole"
+       cx="4129"
+       cy="3339.5"
+       r="1.7717"
+       layerid="11"
+       stroke-width="0"
+       id="circle2425" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4129,3349.5"
+     layerid="11"
+     number="2"
+     net="GND"
+     plated="Y"
+     id="g2433"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4129"
+       cy="3349.5"
+       rx="2.7559"
+       ry="2.7559"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2429" />
+    <circle
+       c_etype="pad_hole"
+       cx="4129"
+       cy="3349.5"
+       r="1.7717"
+       layerid="11"
+       stroke-width="0"
+       id="circle2431" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.055,3063.8"
+     layerid="11"
+     number="1"
+     net="GND"
+     plated="Y"
+     id="g2439"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4069.055"
+       cy="3063.8"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2435" />
+    <circle
+       c_etype="pad_hole"
+       cx="4069.055"
+       cy="3063.8"
+       r="1.7992"
+       layerid="11"
+       stroke-width="0"
+       id="circle2437" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3063.8"
+     layerid="11"
+     number="2"
+     net="STEPSPOT"
+     plated="Y"
+     id="g2445"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="STEPSPOT"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4079.055"
+       cy="3063.8"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2441" />
+    <circle
+       c_etype="pad_hole"
+       cx="4079.055"
+       cy="3063.8"
+       r="1.8"
+       layerid="11"
+       stroke-width="0"
+       id="circle2443" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4089.055,3063.8"
+     layerid="11"
+     number="3"
+     net="+5V"
+     plated="Y"
+     id="g2451"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="+5V"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4089.055"
+       cy="3063.8"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2447" />
+    <circle
+       c_etype="pad_hole"
+       cx="4089.055"
+       cy="3063.8"
+       r="1.8"
+       layerid="11"
+       stroke-width="0"
+       id="circle2449" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4099.055,3033.8"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="g2457"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <polyline
+       c_etype="pad_shell"
+       points="4099.055 3035.178 4099.055 3032.4221"
+       layerid="11"
+       stroke-width="7.0866"
+       id="polyline2453" />
+    <polyline
+       c_etype="pad_hole"
+       points="4099.055 3035.3748 4099.055 3032.2252"
+       layerid="11"
+       stroke-width="4.7244"
+       id="polyline2455" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4059.055,3033.8"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="g2463"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <polyline
+       c_etype="pad_shell"
+       points="4059.055 3035.178 4059.055 3032.4221"
+       layerid="11"
+       stroke-width="7.0866"
+       id="polyline2459" />
+    <polyline
+       c_etype="pad_hole"
+       points="4059.055 3035.3748 4059.055 3032.2252"
+       layerid="11"
+       stroke-width="4.7244"
+       id="polyline2461" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.055,3142.54"
+     layerid="11"
+     number="1"
+     net="GND"
+     plated="Y"
+     id="g2469"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4069.055"
+       cy="3142.54"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2465" />
+    <circle
+       c_etype="pad_hole"
+       cx="4069.055"
+       cy="3142.54"
+       r="1.7992"
+       layerid="11"
+       stroke-width="0"
+       id="circle2467" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3142.54"
+     layerid="11"
+     number="2"
+     net="PULSESPOT"
+     plated="Y"
+     id="g2475"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="PULSESPOT"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4079.055"
+       cy="3142.54"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2471" />
+    <circle
+       c_etype="pad_hole"
+       cx="4079.055"
+       cy="3142.54"
+       r="1.8"
+       layerid="11"
+       stroke-width="0"
+       id="circle2473" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4089.055,3142.54"
+     layerid="11"
+     number="3"
+     net="+5V"
+     plated="Y"
+     id="g2481"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="+5V"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4089.055"
+       cy="3142.54"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2477" />
+    <circle
+       c_etype="pad_hole"
+       cx="4089.055"
+       cy="3142.54"
+       r="1.8"
+       layerid="11"
+       stroke-width="0"
+       id="circle2479" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4099.055,3112.54"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="g2487"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <polyline
+       c_etype="pad_shell"
+       points="4099.055 3113.918 4099.055 3111.1621"
+       layerid="11"
+       stroke-width="7.0866"
+       id="polyline2483" />
+    <polyline
+       c_etype="pad_hole"
+       points="4099.055 3114.1148 4099.055 3110.9652"
+       layerid="11"
+       stroke-width="4.7244"
+       id="polyline2485" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4059.055,3112.54"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="g2493"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <polyline
+       c_etype="pad_shell"
+       points="4059.055 3113.918 4059.055 3111.1621"
+       layerid="11"
+       stroke-width="7.0866"
+       id="polyline2489" />
+    <polyline
+       c_etype="pad_hole"
+       points="4059.055 3114.1148 4059.055 3110.9652"
+       layerid="11"
+       stroke-width="4.7244"
+       id="polyline2491" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.055,3221.28"
+     layerid="11"
+     number="1"
+     net="GND"
+     plated="Y"
+     id="g2499"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4069.055"
+       cy="3221.28"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2495" />
+    <circle
+       c_etype="pad_hole"
+       cx="4069.055"
+       cy="3221.28"
+       r="1.7992"
+       layerid="11"
+       stroke-width="0"
+       id="circle2497" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4079.055,3221.28"
+     layerid="11"
+     number="2"
+     net="OFFSETPOT"
+     plated="Y"
+     id="g2505"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="OFFSETPOT"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4079.055"
+       cy="3221.28"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2501" />
+    <circle
+       c_etype="pad_hole"
+       cx="4079.055"
+       cy="3221.28"
+       r="1.8"
+       layerid="11"
+       stroke-width="0"
+       id="circle2503" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4089.055,3221.28"
+     layerid="11"
+     number="3"
+     net="+5V"
+     plated="Y"
+     id="g2511"
+     locked="0"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="+5V"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4089.055"
+       cy="3221.28"
+       rx="3"
+       ry="3"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2507" />
+    <circle
+       c_etype="pad_hole"
+       cx="4089.055"
+       cy="3221.28"
+       r="1.8"
+       layerid="11"
+       stroke-width="0"
+       id="circle2509" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4099.055,3191.28"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="g2517"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <polyline
+       c_etype="pad_shell"
+       points="4099.055 3192.658 4099.055 3189.9021"
+       layerid="11"
+       stroke-width="7.0866"
+       id="polyline2513" />
+    <polyline
+       c_etype="pad_hole"
+       points="4099.055 3192.8548 4099.055 3189.7052"
+       layerid="11"
+       stroke-width="4.7244"
+       id="polyline2515" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4059.055,3191.28"
+     layerid="11"
+     number="4"
+     net=""
+     plated="Y"
+     id="g2523"
+     locked="0"
+     c_rotation="90"
+     c_width="9.8425"
+     c_height="7.0866"
+     title=""
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4">
+    <polyline
+       c_etype="pad_shell"
+       points="4059.055 3192.658 4059.055 3189.9021"
+       layerid="11"
+       stroke-width="7.0866"
+       id="polyline2519" />
+    <polyline
+       c_etype="pad_hole"
+       points="4059.055 3192.8548 4059.055 3189.7052"
+       layerid="11"
+       stroke-width="4.7244"
+       id="polyline2521" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4025.354,3372.382"
+     layerid="11"
+     number="P$3_TIP"
+     net="R8_2"
+     plated="Y"
+     id="g2529"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title="R8_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4020.7774 3376.959 4020.7774 3367.805 4029.9314 3367.805 4029.9314 3376.959"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2525" />
+    <polyline
+       c_etype="pad_hole"
+       points="4025.3544 3372.392 4025.3544 3372.372"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2527" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4057.716,3372.382"
+     layerid="11"
+     number="P$2_SWITCH"
+     net=""
+     plated="Y"
+     id="g2535"
+     locked="0"
+     c_rotation="90"
+     c_width="9.154"
+     c_height="9.154"
+     title=""
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4053.1394 3376.959 4053.1394 3367.805 4062.2934 3367.805 4062.2934 3376.959"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2531" />
+    <polyline
+       c_etype="pad_hole"
+       points="4057.7164 3372.392 4057.7164 3372.372"
+       layerid="11"
+       stroke-width="6.102"
+       id="polyline2533" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4069.921,3372.382"
+     layerid="11"
+     number="P$1_SLEEVE"
+     net="GND"
+     plated="Y"
+     id="g2541"
+     locked="0"
+     c_rotation="90"
+     c_width="7.972"
+     c_height="7.972"
+     title="GND"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <polygon
+       c_etype="pad_shell"
+       points="4065.9354 3376.368 4065.9354 3368.396 4073.9074 3368.396 4073.9074 3376.368"
+       layerid="11"
+       stroke-width="0"
+       id="polygon2537" />
+    <polyline
+       c_etype="pad_hole"
+       points="4069.9214 3372.3825 4069.9214 3372.3815"
+       layerid="11"
+       stroke-width="5.314"
+       id="polyline2539" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4029,3339.5"
+     layerid="11"
+     number="1"
+     net="R7_2"
+     plated="Y"
+     id="g2547"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="R7_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4029"
+       cy="3339.5"
+       rx="2.7559"
+       ry="2.7559"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2543" />
+    <circle
+       c_etype="pad_hole"
+       cx="4029"
+       cy="3339.5"
+       r="1.7717"
+       layerid="11"
+       stroke-width="0"
+       id="circle2545" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4029,3349.5"
+     layerid="11"
+     number="2"
+     net="GND"
+     plated="Y"
+     id="g2553"
+     locked="0"
+     c_rotation="90"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.2">
+    <ellipse
+       c_etype="pad_shell"
+       cx="4029"
+       cy="3349.5"
+       rx="2.7559"
+       ry="2.7559"
+       layerid="11"
+       stroke-width="0"
+       id="ellipse2549" />
+    <circle
+       c_etype="pad_hole"
+       cx="4029"
+       cy="3349.5"
+       r="1.7717"
+       layerid="11"
+       stroke-width="0"
+       id="circle2551" />
+  </g>
+  <g
+     c_partid="part_via"
+     c_etype="pinpart"
+     c_shapetype="group"
+     net="PULSESCV"
+     c_origin="4063,3217.5"
+     layerid="11"
+     id="gge4836"
+     locked="0"
+     solderexpansion="">
+    <circle
+       cx="4063"
+       cy="3217.5"
+       r="1.2"
+       stroke-width="0"
+       c_etype="pad_shell"
+       id="circle2595" />
+    <circle
+       cx="4063"
+       cy="3217.5"
+       r="0.6"
+       stroke-width="0"
+       c_etype="pad_hole"
+       id="circle2597" />
+  </g>
+  <g
+     c_partid="part_via"
+     c_etype="pinpart"
+     c_shapetype="group"
+     net="PULSESCV"
+     c_origin="4063,3205.5"
+     layerid="11"
+     id="gge4863"
+     locked="0"
+     solderexpansion="">
+    <circle
+       cx="4063"
+       cy="3205.5"
+       r="1.2"
+       stroke-width="0"
+       c_etype="pad_shell"
+       id="circle2600" />
+    <circle
+       cx="4063"
+       cy="3205.5"
+       r="0.6"
+       stroke-width="0"
+       c_etype="pad_hole"
+       id="circle2602" />
+  </g>
+  <polyline
+     points="4021.878 2995.716 4021.878 2960.284 4063.216 2960.284 4063.216 2995.716 4021.878 2995.716"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge582"
+     locked="0" />
+  <polyline
+     points="4045.5 2979.969 4045.5 2976.031"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge585"
+     locked="0" />
+  <polyline
+     points="4043.531 2978 4047.469 2978"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge588"
+     locked="0" />
+  <polyline
+     points="4020.7879 3273.957 4056.2199 3273.957 4056.2199 3315.295 4020.7879 3315.295 4020.7879 3273.957"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge654"
+     locked="0" />
+  <polyline
+     points="4036.5349 3297.579 4040.4729 3297.579"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge657"
+     locked="0" />
+  <polyline
+     points="4038.5039 3295.61 4038.5039 3299.548"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge660"
+     locked="0" />
+  <polyline
+     points="4135.622 2960.284 4135.622 2995.716 4094.284 2995.716 4094.284 2960.284 4135.622 2960.284"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge726"
+     locked="0" />
+  <polyline
+     points="4112 2976.031 4112 2979.969"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge729"
+     locked="0" />
+  <polyline
+     points="4113.969 2978 4110.031 2978"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge732"
+     locked="0" />
+  <polyline
+     points="4061.339 3273.957 4096.771 3273.957 4096.771 3315.295 4061.339 3315.295 4061.339 3273.957"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge798"
+     locked="0" />
+  <polyline
+     points="4077.086 3297.579 4081.024 3297.579"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge801"
+     locked="0" />
+  <polyline
+     points="4079.055 3295.61 4079.055 3299.548"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge804"
+     locked="0" />
+  <polyline
+     points="4101.8901 3273.957 4137.3221 3273.957 4137.3221 3315.295 4101.8901 3315.295 4101.8901 3273.957"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge870"
+     locked="0" />
+  <polyline
+     points="4117.6371 3297.579 4121.5751 3297.579"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge873"
+     locked="0" />
+  <polyline
+     points="4119.6061 3295.61 4119.6061 3299.548"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge876"
+     locked="0" />
+  <polyline
+     points="4137.3226 3354.666 4137.3226 3390.098 4095.9846 3390.098 4095.9846 3354.666 4137.3226 3354.666"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge942"
+     locked="0" />
+  <polyline
+     points="4113.7006 3370.413 4113.7006 3374.351"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge945"
+     locked="0" />
+  <polyline
+     points="4115.6696 3372.382 4111.7316 3372.382"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge948"
+     locked="0" />
+  <polyline
+     points="4029 3120.12 4039.031 3120.141"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge1032"
+     locked="0" />
+  <polyline
+     points="4124 3351.12 4134.031 3351.141"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge1116"
+     locked="0" />
+  <polyline
+     points="4060.055 3015.8 4098.055 3015.8 4098.055 3059.8 4060.055 3059.8 4060.055 3015.8"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge1695"
+     locked="0" />
+  <polyline
+     points="4060.055 3094.54 4098.055 3094.54 4098.055 3138.54 4060.055 3138.54 4060.055 3094.54"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge1794"
+     locked="0" />
+  <polyline
+     points="4060.055 3173.28 4098.055 3173.28 4098.055 3217.28 4060.055 3217.28 4060.055 3173.28"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge1893"
+     locked="0" />
+  <polyline
+     points="4020.7874 3390.098 4020.7874 3354.666 4062.1254 3354.666 4062.1254 3390.098 4020.7874 3390.098"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge3333"
+     locked="0" />
+  <polyline
+     points="4044.4094 3374.351 4044.4094 3370.413"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge3336"
+     locked="0" />
+  <polyline
+     points="4042.4404 3372.382 4046.3784 3372.382"
+     stroke-width="0.315"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge3339"
+     locked="0" />
+  <polyline
+     points="4024 3351.12 4034.031 3351.141"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="3"
+     net=""
+     id="gge4992"
+     locked="0" />
+  <g
+     c_partid="part_pcbtext"
+     c_etype="pinpart"
+     c_origin="4068,3050.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge6363"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.13385"
+       c_fontfamily=""
+       c_text="1k,5k,10k"
+       d="M 4068 3047.08L4068.38 3046.89 L4068.94 3046.33 L4068.94 3050.27 M 4070.18 3046.33L4070.18 3050.27 M 4072.06 3047.64L4070.18 3049.52 M 4070.93 3048.77L4072.25 3050.27 M 4073.86 3049.52L4073.67 3049.71 L4073.49 3049.52 L4073.67 3049.34 L4073.86 3049.52 L4073.86 3049.9 L4073.49 3050.27 M 4077.36 3046.33L4075.48 3046.33 L4075.29 3048.02 L4075.48 3047.83 L4076.04 3047.64 L4076.61 3047.64 L4077.17 3047.83 L4077.55 3048.21 L4077.73 3048.77 L4077.73 3049.15 L4077.55 3049.71 L4077.17 3050.09 L4076.61 3050.27 L4076.04 3050.27 L4075.48 3050.09 L4075.29 3049.9 L4075.1 3049.52 M 4078.97 3046.33L4078.97 3050.27 M 4080.85 3047.64L4078.97 3049.52 M 4079.73 3048.77L4081.04 3050.27 M 4082.66 3049.52L4082.47 3049.71 L4082.28 3049.52 L4082.47 3049.34 L4082.66 3049.52 L4082.66 3049.9 L4082.28 3050.27 M 4083.9 3047.08L4084.27 3046.89 L4084.84 3046.33 L4084.84 3050.27 M 4087.2 3046.33L4086.64 3046.52 L4086.26 3047.08 L4086.08 3048.02 L4086.08 3048.58 L4086.26 3049.52 L4086.64 3050.09 L4087.2 3050.27 L4087.58 3050.27 L4088.14 3050.09 L4088.52 3049.52 L4088.71 3048.58 L4088.71 3048.02 L4088.52 3047.08 L4088.14 3046.52 L4087.58 3046.33 L4087.2 3046.33 M 4089.95 3046.33L4089.95 3050.27 M 4091.83 3047.64L4089.95 3049.52 M 4090.7 3048.77L4092.01 3050.27 "
+       fill="none"
+       stroke-width="0.8"
+       id="path2647" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype="pinpart"
+     c_origin="4070,3129.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge6384"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.13385"
+       c_fontfamily=""
+       c_text="1k,5k,10k"
+       d="M 4070 3126.08 L 4070.38 3125.89 L 4070.94 3125.33 L 4070.94 3129.27 M 4072.18 3125.33 L 4072.18 3129.27 M 4074.06 3126.64 L 4072.18 3128.52 M 4072.93 3127.77 L 4074.25 3129.27 M 4075.86 3128.52 L 4075.67 3128.71 L 4075.49 3128.52 L 4075.67 3128.34 L 4075.86 3128.52 L 4075.86 3128.9 L 4075.49 3129.27 M 4079.36 3125.33 L 4077.48 3125.33 L 4077.29 3127.02 L 4077.48 3126.83 L 4078.04 3126.64 L 4078.61 3126.64 L 4079.17 3126.83 L 4079.55 3127.21 L 4079.73 3127.77 L 4079.73 3128.15 L 4079.55 3128.71 L 4079.17 3129.09 L 4078.61 3129.27 L 4078.04 3129.27 L 4077.48 3129.09 L 4077.29 3128.9 L 4077.1 3128.52 M 4080.97 3125.33 L 4080.97 3129.27 M 4082.85 3126.64 L 4080.97 3128.52 M 4081.73 3127.77 L 4083.04 3129.27 M 4084.66 3128.52 L 4084.47 3128.71 L 4084.28 3128.52 L 4084.47 3128.34 L 4084.66 3128.52 L 4084.66 3128.9 L 4084.28 3129.27 M 4085.9 3126.08 L 4086.27 3125.89 L 4086.84 3125.33 L 4086.84 3129.27 M 4089.2 3125.33 L 4088.64 3125.52 L 4088.26 3126.08 L 4088.08 3127.02 L 4088.08 3127.58 L 4088.26 3128.52 L 4088.64 3129.09 L 4089.2 3129.27 L 4089.58 3129.27 L 4090.14 3129.09 L 4090.52 3128.52 L 4090.71 3127.58 L 4090.71 3127.02 L 4090.52 3126.08 L 4090.14 3125.52 L 4089.58 3125.33 L 4089.2 3125.33 M 4091.95 3125.33 L 4091.95 3129.27 M 4093.83 3126.64 L 4091.95 3128.52 M 4092.7 3127.77 L 4094.01 3129.27"
+       fill="none"
+       stroke-width="0.8"
+       id="path2650" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype="pinpart"
+     c_origin="4072,3208.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge6396"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.13385"
+       c_fontfamily=""
+       c_text="1k,5k,10k"
+       d="M 4072 3205.08 L 4072.38 3204.89 L 4072.94 3204.33 L 4072.94 3208.27 M 4074.18 3204.33 L 4074.18 3208.27 M 4076.06 3205.64 L 4074.18 3207.52 M 4074.93 3206.77 L 4076.25 3208.27 M 4077.86 3207.52 L 4077.67 3207.71 L 4077.49 3207.52 L 4077.67 3207.34 L 4077.86 3207.52 L 4077.86 3207.9 L 4077.49 3208.27 M 4081.36 3204.33 L 4079.48 3204.33 L 4079.29 3206.02 L 4079.48 3205.83 L 4080.04 3205.64 L 4080.61 3205.64 L 4081.17 3205.83 L 4081.55 3206.21 L 4081.73 3206.77 L 4081.73 3207.15 L 4081.55 3207.71 L 4081.17 3208.09 L 4080.61 3208.27 L 4080.04 3208.27 L 4079.48 3208.09 L 4079.29 3207.9 L 4079.1 3207.52 M 4082.97 3204.33 L 4082.97 3208.27 M 4084.85 3205.64 L 4082.97 3207.52 M 4083.73 3206.77 L 4085.04 3208.27 M 4086.66 3207.52 L 4086.47 3207.71 L 4086.28 3207.52 L 4086.47 3207.34 L 4086.66 3207.52 L 4086.66 3207.9 L 4086.28 3208.27 M 4087.9 3205.08 L 4088.27 3204.89 L 4088.84 3204.33 L 4088.84 3208.27 M 4091.2 3204.33 L 4090.64 3204.52 L 4090.26 3205.08 L 4090.08 3206.02 L 4090.08 3206.58 L 4090.26 3207.52 L 4090.64 3208.09 L 4091.2 3208.27 L 4091.58 3208.27 L 4092.14 3208.09 L 4092.52 3207.52 L 4092.71 3206.58 L 4092.71 3206.02 L 4092.52 3205.08 L 4092.14 3204.52 L 4091.58 3204.33 L 4091.2 3204.33 M 4093.95 3204.33 L 4093.95 3208.27 M 4095.83 3205.64 L 4093.95 3207.52 M 4094.7 3206.77 L 4096.01 3208.27"
+       fill="none"
+       stroke-width="0.8"
+       id="path2653" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4022,2966.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge570"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="ClockIn"
+       d="M 4025.07 2962.98 L 4024.86 2962.57 L 4024.45 2962.16 L 4024.05 2961.96 L 4023.23 2961.96 L 4022.82 2962.16 L 4022.41 2962.57 L 4022.2 2962.98 L 4022 2963.6 L 4022 2964.62 L 4022.2 2965.23 L 4022.41 2965.64 L 4022.82 2966.05 L 4023.23 2966.25 L 4024.05 2966.25 L 4024.45 2966.05 L 4024.86 2965.64 L 4025.07 2965.23 M 4026.42 2961.96 L 4026.42 2966.25 M 4028.79 2963.39 L 4028.38 2963.6 L 4027.97 2964 L 4027.77 2964.62 L 4027.77 2965.03 L 4027.97 2965.64 L 4028.38 2966.05 L 4028.79 2966.25 L 4029.4 2966.25 L 4029.81 2966.05 L 4030.22 2965.64 L 4030.43 2965.03 L 4030.43 2964.62 L 4030.22 2964 L 4029.81 2963.6 L 4029.4 2963.39 L 4028.79 2963.39 M 4034.23 2964 L 4033.82 2963.6 L 4033.41 2963.39 L 4032.8 2963.39 L 4032.39 2963.6 L 4031.98 2964 L 4031.78 2964.62 L 4031.78 2965.03 L 4031.98 2965.64 L 4032.39 2966.05 L 4032.8 2966.25 L 4033.41 2966.25 L 4033.82 2966.05 L 4034.23 2965.64 M 4035.58 2961.96 L 4035.58 2966.25 M 4037.63 2963.39 L 4035.58 2965.44 M 4036.4 2964.62 L 4037.83 2966.25 M 4039.18 2961.96 L 4039.18 2966.25 M 4040.53 2963.39 L 4040.53 2966.25 M 4040.53 2964.21 L 4041.15 2963.6 L 4041.55 2963.39 L 4042.17 2963.39 L 4042.58 2963.6 L 4042.78 2964.21 L 4042.78 2966.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2656" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4020.5,2978"
+     c_rotation="90"
+     c_mirror="0"
+     id="gge576"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J1"
+       d="M 4015.96 2975.95 L 4019.23 2975.95 L 4019.85 2976.16 L 4020.05 2976.36 L 4020.25 2976.77 L 4020.25 2977.18 L 4020.05 2977.59 L 4019.85 2977.8 L 4019.23 2978 L 4018.82 2978 M 4016.78 2974.6 L 4016.57 2974.2 L 4015.96 2973.58 L 4020.25 2973.58"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2659" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4024,3292.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge642"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="StepsCV"
+       d="M 4026.86 3288.57 L 4026.45 3288.16 L 4025.84 3287.96 L 4025.02 3287.96 L 4024.41 3288.16 L 4024 3288.57 L 4024 3288.98 L 4024.2 3289.39 L 4024.41 3289.6 L 4024.82 3289.8 L 4026.05 3290.21 L 4026.45 3290.41 L 4026.66 3290.62 L 4026.86 3291.03 L 4026.86 3291.64 L 4026.45 3292.05 L 4025.84 3292.25 L 4025.02 3292.25 L 4024.41 3292.05 L 4024 3291.64 M 4028.83 3287.96 L 4028.83 3291.44 L 4029.03 3292.05 L 4029.44 3292.25 L 4029.85 3292.25 M 4028.21 3289.39 L 4029.65 3289.39 M 4031.2 3290.62 L 4033.65 3290.62 L 4033.65 3290.21 L 4033.45 3289.8 L 4033.25 3289.6 L 4032.84 3289.39 L 4032.22 3289.39 L 4031.81 3289.6 L 4031.4 3290 L 4031.2 3290.62 L 4031.2 3291.03 L 4031.4 3291.64 L 4031.81 3292.05 L 4032.22 3292.25 L 4032.84 3292.25 L 4033.25 3292.05 L 4033.65 3291.64 M 4035 3289.39 L 4035 3293.69 M 4035 3290 L 4035.41 3289.6 L 4035.82 3289.39 L 4036.44 3289.39 L 4036.85 3289.6 L 4037.25 3290 L 4037.46 3290.62 L 4037.46 3291.03 L 4037.25 3291.64 L 4036.85 3292.05 L 4036.44 3292.25 L 4035.82 3292.25 L 4035.41 3292.05 L 4035 3291.64 M 4041.06 3290 L 4040.85 3289.6 L 4040.24 3289.39 L 4039.63 3289.39 L 4039.01 3289.6 L 4038.81 3290 L 4039.01 3290.41 L 4039.42 3290.62 L 4040.45 3290.82 L 4040.85 3291.03 L 4041.06 3291.44 L 4041.06 3291.64 L 4040.85 3292.05 L 4040.24 3292.25 L 4039.63 3292.25 L 4039.01 3292.05 L 4038.81 3291.64 M 4045.48 3288.98 L 4045.27 3288.57 L 4044.86 3288.16 L 4044.45 3287.96 L 4043.64 3287.96 L 4043.23 3288.16 L 4042.82 3288.57 L 4042.61 3288.98 L 4042.41 3289.6 L 4042.41 3290.62 L 4042.61 3291.23 L 4042.82 3291.64 L 4043.23 3292.05 L 4043.64 3292.25 L 4044.45 3292.25 L 4044.86 3292.05 L 4045.27 3291.64 L 4045.48 3291.23 M 4046.83 3287.96 L 4048.46 3292.25 M 4050.1 3287.96 L 4048.46 3292.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2662" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4038.504,3272.579"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge648"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J2"
+       d="M 4040.5539 3268.039 L 4040.5539 3271.309 L 4040.3439 3271.929 L 4040.1439 3272.129 L 4039.7339 3272.329 L 4039.3239 3272.329 L 4038.9139 3272.129 L 4038.7039 3271.929 L 4038.5039 3271.309 L 4038.5039 3270.899 M 4042.1039 3269.059 L 4042.1039 3268.859 L 4042.3039 3268.449 L 4042.5139 3268.239 L 4042.9239 3268.039 L 4043.7439 3268.039 L 4044.1539 3268.239 L 4044.3539 3268.449 L 4044.5539 3268.859 L 4044.5539 3269.269 L 4044.3539 3269.679 L 4043.9439 3270.289 L 4041.9039 3272.329 L 4044.7639 3272.329"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2665" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4112,2965.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge714"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="ResetIn"
+       d="M 4112 2960.96 L 4112 2965.25 M 4112 2960.96 L 4113.84 2960.96 L 4114.45 2961.16 L 4114.66 2961.37 L 4114.86 2961.78 L 4114.86 2962.19 L 4114.66 2962.6 L 4114.45 2962.8 L 4113.84 2963 L 4112 2963 M 4113.43 2963 L 4114.86 2965.25 M 4116.21 2963.62 L 4118.67 2963.62 L 4118.67 2963.21 L 4118.46 2962.8 L 4118.26 2962.6 L 4117.85 2962.39 L 4117.24 2962.39 L 4116.83 2962.6 L 4116.42 2963 L 4116.21 2963.62 L 4116.21 2964.03 L 4116.42 2964.64 L 4116.83 2965.05 L 4117.24 2965.25 L 4117.85 2965.25 L 4118.26 2965.05 L 4118.67 2964.64 M 4122.27 2963 L 4122.06 2962.6 L 4121.45 2962.39 L 4120.84 2962.39 L 4120.22 2962.6 L 4120.02 2963 L 4120.22 2963.41 L 4120.63 2963.62 L 4121.65 2963.82 L 4122.06 2964.03 L 4122.27 2964.44 L 4122.27 2964.64 L 4122.06 2965.05 L 4121.45 2965.25 L 4120.84 2965.25 L 4120.22 2965.05 L 4120.02 2964.64 M 4123.62 2963.62 L 4126.07 2963.62 L 4126.07 2963.21 L 4125.87 2962.8 L 4125.66 2962.6 L 4125.25 2962.39 L 4124.64 2962.39 L 4124.23 2962.6 L 4123.82 2963 L 4123.62 2963.62 L 4123.62 2964.03 L 4123.82 2964.64 L 4124.23 2965.05 L 4124.64 2965.25 L 4125.25 2965.25 L 4125.66 2965.05 L 4126.07 2964.64 M 4128.04 2960.96 L 4128.04 2964.44 L 4128.24 2965.05 L 4128.65 2965.25 L 4129.06 2965.25 M 4127.42 2962.39 L 4128.85 2962.39 M 4130.41 2960.96 L 4130.41 2965.25 M 4131.76 2962.39 L 4131.76 2965.25 M 4131.76 2963.21 L 4132.37 2962.6 L 4132.78 2962.39 L 4133.4 2962.39 L 4133.8 2962.6 L 4134.01 2963.21 L 4134.01 2965.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2668" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4137,2978"
+     c_rotation="270"
+     c_mirror="0"
+     id="gge720"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J3"
+       d="M 4141.54 2980.05 L 4138.27 2980.05 L 4137.65 2979.84 L 4137.45 2979.64 L 4137.25 2979.23 L 4137.25 2978.82 L 4137.45 2978.41 L 4137.65 2978.2 L 4138.27 2978 L 4138.68 2978 M 4141.54 2981.8 L 4141.54 2984.05 L 4139.9 2982.83 L 4139.9 2983.44 L 4139.7 2983.85 L 4139.5 2984.05 L 4138.88 2984.26 L 4138.47 2984.26 L 4137.86 2984.05 L 4137.45 2983.65 L 4137.25 2983.03 L 4137.25 2982.42 L 4137.45 2981.8 L 4137.65 2981.6 L 4138.06 2981.4"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2671" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4065,3293.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge786"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="PulsesCV"
+       d="M 4065 3288.96 L 4065 3293.25 M 4065 3288.96 L 4066.84 3288.96 L 4067.45 3289.16 L 4067.66 3289.37 L 4067.86 3289.78 L 4067.86 3290.39 L 4067.66 3290.8 L 4067.45 3291 L 4066.84 3291.21 L 4065 3291.21 M 4069.21 3290.39 L 4069.21 3292.44 L 4069.42 3293.05 L 4069.83 3293.25 L 4070.44 3293.25 L 4070.85 3293.05 L 4071.46 3292.44 M 4071.46 3290.39 L 4071.46 3293.25 M 4072.81 3288.96 L 4072.81 3293.25 M 4076.41 3291 L 4076.21 3290.6 L 4075.6 3290.39 L 4074.98 3290.39 L 4074.37 3290.6 L 4074.16 3291 L 4074.37 3291.41 L 4074.78 3291.62 L 4075.8 3291.82 L 4076.21 3292.03 L 4076.41 3292.44 L 4076.41 3292.64 L 4076.21 3293.05 L 4075.6 3293.25 L 4074.98 3293.25 L 4074.37 3293.05 L 4074.16 3292.64 M 4077.76 3291.62 L 4080.22 3291.62 L 4080.22 3291.21 L 4080.01 3290.8 L 4079.81 3290.6 L 4079.4 3290.39 L 4078.79 3290.39 L 4078.38 3290.6 L 4077.97 3291 L 4077.76 3291.62 L 4077.76 3292.03 L 4077.97 3292.64 L 4078.38 3293.05 L 4078.79 3293.25 L 4079.4 3293.25 L 4079.81 3293.05 L 4080.22 3292.64 M 4083.82 3291 L 4083.61 3290.6 L 4083 3290.39 L 4082.39 3290.39 L 4081.77 3290.6 L 4081.57 3291 L 4081.77 3291.41 L 4082.18 3291.62 L 4083.2 3291.82 L 4083.61 3292.03 L 4083.82 3292.44 L 4083.82 3292.64 L 4083.61 3293.05 L 4083 3293.25 L 4082.39 3293.25 L 4081.77 3293.05 L 4081.57 3292.64 M 4088.24 3289.98 L 4088.03 3289.57 L 4087.62 3289.16 L 4087.21 3288.96 L 4086.4 3288.96 L 4085.99 3289.16 L 4085.58 3289.57 L 4085.37 3289.98 L 4085.17 3290.6 L 4085.17 3291.62 L 4085.37 3292.23 L 4085.58 3292.64 L 4085.99 3293.05 L 4086.4 3293.25 L 4087.21 3293.25 L 4087.62 3293.05 L 4088.03 3292.64 L 4088.24 3292.23 M 4089.59 3288.96 L 4091.22 3293.25 M 4092.86 3288.96 L 4091.22 3293.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2674" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4079.055,3272.579"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge792"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J4"
+       d="M 4081.105 3268.039 L 4081.105 3271.309 L 4080.895 3271.929 L 4080.695 3272.129 L 4080.285 3272.329 L 4079.875 3272.329 L 4079.465 3272.129 L 4079.255 3271.929 L 4079.055 3271.309 L 4079.055 3270.899 M 4084.495 3268.039 L 4082.455 3270.899 L 4085.515 3270.899 M 4084.495 3268.039 L 4084.495 3272.329"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2677" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4105,3293.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge858"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="OffsetCV"
+       d="M 4106.23 3288.96 L 4105.82 3289.16 L 4105.41 3289.57 L 4105.2 3289.98 L 4105 3290.6 L 4105 3291.62 L 4105.2 3292.23 L 4105.41 3292.64 L 4105.82 3293.05 L 4106.23 3293.25 L 4107.05 3293.25 L 4107.45 3293.05 L 4107.86 3292.64 L 4108.07 3292.23 L 4108.27 3291.62 L 4108.27 3290.6 L 4108.07 3289.98 L 4107.86 3289.57 L 4107.45 3289.16 L 4107.05 3288.96 L 4106.23 3288.96 M 4111.26 3288.96 L 4110.85 3288.96 L 4110.44 3289.16 L 4110.24 3289.78 L 4110.24 3293.25 M 4109.62 3290.39 L 4111.05 3290.39 M 4114.25 3288.96 L 4113.84 3288.96 L 4113.43 3289.16 L 4113.22 3289.78 L 4113.22 3293.25 M 4112.61 3290.39 L 4114.04 3290.39 M 4117.85 3291 L 4117.64 3290.6 L 4117.03 3290.39 L 4116.41 3290.39 L 4115.8 3290.6 L 4115.6 3291 L 4115.8 3291.41 L 4116.21 3291.62 L 4117.23 3291.82 L 4117.64 3292.03 L 4117.85 3292.44 L 4117.85 3292.64 L 4117.64 3293.05 L 4117.03 3293.25 L 4116.41 3293.25 L 4115.8 3293.05 L 4115.6 3292.64 M 4119.2 3291.62 L 4121.65 3291.62 L 4121.65 3291.21 L 4121.45 3290.8 L 4121.24 3290.6 L 4120.83 3290.39 L 4120.22 3290.39 L 4119.81 3290.6 L 4119.4 3291 L 4119.2 3291.62 L 4119.2 3292.03 L 4119.4 3292.64 L 4119.81 3293.05 L 4120.22 3293.25 L 4120.83 3293.25 L 4121.24 3293.05 L 4121.65 3292.64 M 4123.61 3288.96 L 4123.61 3292.44 L 4123.82 3293.05 L 4124.23 3293.25 L 4124.64 3293.25 M 4123 3290.39 L 4124.43 3290.39 M 4129.05 3289.98 L 4128.85 3289.57 L 4128.44 3289.16 L 4128.03 3288.96 L 4127.21 3288.96 L 4126.8 3289.16 L 4126.4 3289.57 L 4126.19 3289.98 L 4125.99 3290.6 L 4125.99 3291.62 L 4126.19 3292.23 L 4126.4 3292.64 L 4126.8 3293.05 L 4127.21 3293.25 L 4128.03 3293.25 L 4128.44 3293.05 L 4128.85 3292.64 L 4129.05 3292.23 M 4130.4 3288.96 L 4132.04 3293.25 M 4133.68 3288.96 L 4132.04 3293.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2680" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4119.606,3272.579"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge864"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J5"
+       d="M 4121.6561 3268.039 L 4121.6561 3271.309 L 4121.4461 3271.929 L 4121.2461 3272.129 L 4120.8361 3272.329 L 4120.4261 3272.329 L 4120.0161 3272.129 L 4119.8061 3271.929 L 4119.6061 3271.309 L 4119.6061 3270.899 M 4125.4561 3268.039 L 4123.4061 3268.039 L 4123.2061 3269.879 L 4123.4061 3269.679 L 4124.0261 3269.469 L 4124.6361 3269.469 L 4125.2561 3269.679 L 4125.6561 3270.079 L 4125.8661 3270.699 L 4125.8661 3271.109 L 4125.6561 3271.719 L 4125.2561 3272.129 L 4124.6361 3272.329 L 4124.0261 3272.329 L 4123.4061 3272.129 L 4123.2061 3271.929 L 4123.0061 3271.519"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2683" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4098,3360.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge930"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="PulseOut"
+       d="M 4098 3355.96 L 4098 3360.25 M 4098 3355.96 L 4099.84 3355.96 L 4100.45 3356.16 L 4100.66 3356.37 L 4100.86 3356.78 L 4100.86 3357.39 L 4100.66 3357.8 L 4100.45 3358 L 4099.84 3358.21 L 4098 3358.21 M 4102.21 3357.39 L 4102.21 3359.44 L 4102.42 3360.05 L 4102.83 3360.25 L 4103.44 3360.25 L 4103.85 3360.05 L 4104.46 3359.44 M 4104.46 3357.39 L 4104.46 3360.25 M 4105.81 3355.96 L 4105.81 3360.25 M 4109.41 3358 L 4109.21 3357.6 L 4108.6 3357.39 L 4107.98 3357.39 L 4107.37 3357.6 L 4107.16 3358 L 4107.37 3358.41 L 4107.78 3358.62 L 4108.8 3358.82 L 4109.21 3359.03 L 4109.41 3359.44 L 4109.41 3359.64 L 4109.21 3360.05 L 4108.6 3360.25 L 4107.98 3360.25 L 4107.37 3360.05 L 4107.16 3359.64 M 4110.76 3358.62 L 4113.22 3358.62 L 4113.22 3358.21 L 4113.01 3357.8 L 4112.81 3357.6 L 4112.4 3357.39 L 4111.79 3357.39 L 4111.38 3357.6 L 4110.97 3358 L 4110.76 3358.62 L 4110.76 3359.03 L 4110.97 3359.64 L 4111.38 3360.05 L 4111.79 3360.25 L 4112.4 3360.25 L 4112.81 3360.05 L 4113.22 3359.64 M 4115.8 3355.96 L 4115.39 3356.16 L 4114.98 3356.57 L 4114.77 3356.98 L 4114.57 3357.6 L 4114.57 3358.62 L 4114.77 3359.23 L 4114.98 3359.64 L 4115.39 3360.05 L 4115.8 3360.25 L 4116.61 3360.25 L 4117.02 3360.05 L 4117.43 3359.64 L 4117.64 3359.23 L 4117.84 3358.62 L 4117.84 3357.6 L 4117.64 3356.98 L 4117.43 3356.57 L 4117.02 3356.16 L 4116.61 3355.96 L 4115.8 3355.96 M 4119.19 3357.39 L 4119.19 3359.44 L 4119.4 3360.05 L 4119.8 3360.25 L 4120.42 3360.25 L 4120.83 3360.05 L 4121.44 3359.44 M 4121.44 3357.39 L 4121.44 3360.25 M 4123.4 3355.96 L 4123.4 3359.44 L 4123.61 3360.05 L 4124.02 3360.25 L 4124.43 3360.25 M 4122.79 3357.39 L 4124.22 3357.39"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2686" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4138.701,3372.382"
+     c_rotation="270"
+     c_mirror="0"
+     id="gge936"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J6"
+       d="M 4143.2406 3374.432 L 4139.9706 3374.432 L 4139.3506 3374.222 L 4139.1506 3374.022 L 4138.9506 3373.612 L 4138.9506 3373.202 L 4139.1506 3372.792 L 4139.3506 3372.582 L 4139.9706 3372.382 L 4140.3806 3372.382 M 4142.6306 3378.232 L 4143.0406 3378.032 L 4143.2406 3377.412 L 4143.2406 3377.002 L 4143.0406 3376.392 L 4142.4206 3375.982 L 4141.4006 3375.782 L 4140.3806 3375.782 L 4139.5606 3375.982 L 4139.1506 3376.392 L 4138.9506 3377.002 L 4138.9506 3377.212 L 4139.1506 3377.822 L 4139.5606 3378.232 L 4140.1706 3378.432 L 4140.3806 3378.432 L 4140.9906 3378.232 L 4141.4006 3377.822 L 4141.6006 3377.212 L 4141.6006 3377.002 L 4141.4006 3376.392 L 4140.9906 3375.982 L 4140.3806 3375.782"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2689" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4039,3159.5"
+     c_rotation="90"
+     c_mirror="0"
+     id="gge1002"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="ChangeLED"
+       d="M 4035.48 3156.43 L 4035.07 3156.64 L 4034.66 3157.05 L 4034.46 3157.45 L 4034.46 3158.27 L 4034.66 3158.68 L 4035.07 3159.09 L 4035.48 3159.3 L 4036.1 3159.5 L 4037.12 3159.5 L 4037.73 3159.3 L 4038.14 3159.09 L 4038.55 3158.68 L 4038.75 3158.27 L 4038.75 3157.45 L 4038.55 3157.05 L 4038.14 3156.64 L 4037.73 3156.43 M 4034.46 3155.08 L 4038.75 3155.08 M 4036.71 3155.08 L 4036.1 3154.47 L 4035.89 3154.06 L 4035.89 3153.45 L 4036.1 3153.04 L 4036.71 3152.83 L 4038.75 3152.83 M 4035.89 3149.03 L 4038.75 3149.03 M 4036.5 3149.03 L 4036.1 3149.44 L 4035.89 3149.85 L 4035.89 3150.46 L 4036.1 3150.87 L 4036.5 3151.28 L 4037.12 3151.48 L 4037.53 3151.48 L 4038.14 3151.28 L 4038.55 3150.87 L 4038.75 3150.46 L 4038.75 3149.85 L 4038.55 3149.44 L 4038.14 3149.03 M 4035.89 3147.68 L 4038.75 3147.68 M 4036.71 3147.68 L 4036.1 3147.06 L 4035.89 3146.65 L 4035.89 3146.04 L 4036.1 3145.63 L 4036.71 3145.43 L 4038.75 3145.43 M 4035.89 3141.62 L 4039.16 3141.62 L 4039.78 3141.83 L 4039.98 3142.03 L 4040.19 3142.44 L 4040.19 3143.05 L 4039.98 3143.46 M 4036.5 3141.62 L 4036.1 3142.03 L 4035.89 3142.44 L 4035.89 3143.05 L 4036.1 3143.46 L 4036.5 3143.87 L 4037.12 3144.08 L 4037.53 3144.08 L 4038.14 3143.87 L 4038.55 3143.46 L 4038.75 3143.05 L 4038.75 3142.44 L 4038.55 3142.03 L 4038.14 3141.62 M 4037.12 3140.27 L 4037.12 3137.82 L 4036.71 3137.82 L 4036.3 3138.02 L 4036.1 3138.23 L 4035.89 3138.64 L 4035.89 3139.25 L 4036.1 3139.66 L 4036.5 3140.07 L 4037.12 3140.27 L 4037.53 3140.27 L 4038.14 3140.07 L 4038.55 3139.66 L 4038.75 3139.25 L 4038.75 3138.64 L 4038.55 3138.23 L 4038.14 3137.82 M 4034.46 3136.47 L 4038.75 3136.47 M 4038.75 3136.47 L 4038.75 3134.01 M 4034.46 3132.66 L 4038.75 3132.66 M 4034.46 3132.66 L 4034.46 3130 M 4036.5 3132.66 L 4036.5 3131.03 M 4038.75 3132.66 L 4038.75 3130 M 4034.46 3128.65 L 4038.75 3128.65 M 4034.46 3128.65 L 4034.46 3127.22 L 4034.66 3126.61 L 4035.07 3126.2 L 4035.48 3126 L 4036.1 3125.79 L 4037.12 3125.79 L 4037.73 3126 L 4038.14 3126.2 L 4038.55 3126.61 L 4038.75 3127.22 L 4038.75 3128.65"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2692" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4033,3105.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1008"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="LED1"
+       d="M 4033 3100.96 L 4033 3105.25 M 4033 3105.25 L 4035.45 3105.25 M 4036.8 3100.96 L 4036.8 3105.25 M 4036.8 3100.96 L 4039.46 3100.96 M 4036.8 3103 L 4038.44 3103 M 4036.8 3105.25 L 4039.46 3105.25 M 4040.81 3100.96 L 4040.81 3105.25 M 4040.81 3100.96 L 4042.25 3100.96 L 4042.86 3101.16 L 4043.27 3101.57 L 4043.47 3101.98 L 4043.68 3102.6 L 4043.68 3103.62 L 4043.47 3104.23 L 4043.27 3104.64 L 4042.86 3105.05 L 4042.25 3105.25 L 4040.81 3105.25 M 4045.03 3101.78 L 4045.44 3101.57 L 4046.05 3100.96 L 4046.05 3105.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2695" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4092,3352.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1086"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="PulseOut"
+       d="M 4092 3347.96 L 4092 3352.25 M 4092 3347.96 L 4093.84 3347.96 L 4094.45 3348.16 L 4094.66 3348.37 L 4094.86 3348.78 L 4094.86 3349.39 L 4094.66 3349.8 L 4094.45 3350 L 4093.84 3350.21 L 4092 3350.21 M 4096.21 3349.39 L 4096.21 3351.44 L 4096.42 3352.05 L 4096.83 3352.25 L 4097.44 3352.25 L 4097.85 3352.05 L 4098.46 3351.44 M 4098.46 3349.39 L 4098.46 3352.25 M 4099.81 3347.96 L 4099.81 3352.25 M 4103.41 3350 L 4103.21 3349.6 L 4102.6 3349.39 L 4101.98 3349.39 L 4101.37 3349.6 L 4101.16 3350 L 4101.37 3350.41 L 4101.78 3350.62 L 4102.8 3350.82 L 4103.21 3351.03 L 4103.41 3351.44 L 4103.41 3351.64 L 4103.21 3352.05 L 4102.6 3352.25 L 4101.98 3352.25 L 4101.37 3352.05 L 4101.16 3351.64 M 4104.76 3350.62 L 4107.22 3350.62 L 4107.22 3350.21 L 4107.01 3349.8 L 4106.81 3349.6 L 4106.4 3349.39 L 4105.79 3349.39 L 4105.38 3349.6 L 4104.97 3350 L 4104.76 3350.62 L 4104.76 3351.03 L 4104.97 3351.64 L 4105.38 3352.05 L 4105.79 3352.25 L 4106.4 3352.25 L 4106.81 3352.05 L 4107.22 3351.64 M 4109.8 3347.96 L 4109.39 3348.16 L 4108.98 3348.57 L 4108.77 3348.98 L 4108.57 3349.6 L 4108.57 3350.62 L 4108.77 3351.23 L 4108.98 3351.64 L 4109.39 3352.05 L 4109.8 3352.25 L 4110.61 3352.25 L 4111.02 3352.05 L 4111.43 3351.64 L 4111.64 3351.23 L 4111.84 3350.62 L 4111.84 3349.6 L 4111.64 3348.98 L 4111.43 3348.57 L 4111.02 3348.16 L 4110.61 3347.96 L 4109.8 3347.96 M 4113.19 3349.39 L 4113.19 3351.44 L 4113.4 3352.05 L 4113.8 3352.25 L 4114.42 3352.25 L 4114.83 3352.05 L 4115.44 3351.44 M 4115.44 3349.39 L 4115.44 3352.25 M 4117.4 3347.96 L 4117.4 3351.44 L 4117.61 3352.05 L 4118.02 3352.25 L 4118.43 3352.25 M 4116.79 3349.39 L 4118.22 3349.39"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2698" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4128,3336.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1092"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="LED2"
+       d="M 4128 3331.96 L 4128 3336.25 M 4128 3336.25 L 4130.45 3336.25 M 4131.8 3331.96 L 4131.8 3336.25 M 4131.8 3331.96 L 4134.46 3331.96 M 4131.8 3334 L 4133.44 3334 M 4131.8 3336.25 L 4134.46 3336.25 M 4135.81 3331.96 L 4135.81 3336.25 M 4135.81 3331.96 L 4137.25 3331.96 L 4137.86 3332.16 L 4138.27 3332.57 L 4138.47 3332.98 L 4138.68 3333.6 L 4138.68 3334.62 L 4138.47 3335.23 L 4138.27 3335.64 L 4137.86 3336.05 L 4137.25 3336.25 L 4135.81 3336.25 M 4140.23 3332.98 L 4140.23 3332.78 L 4140.44 3332.37 L 4140.64 3332.16 L 4141.05 3331.96 L 4141.87 3331.96 L 4142.28 3332.16 L 4142.48 3332.37 L 4142.69 3332.78 L 4142.69 3333.19 L 4142.48 3333.6 L 4142.07 3334.21 L 4140.03 3336.25 L 4142.89 3336.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2701" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4062,3056.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1683"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="Steps"
+       d="M 4064.86 3052.57 L 4064.45 3052.16 L 4063.84 3051.96 L 4063.02 3051.96 L 4062.41 3052.16 L 4062 3052.57 L 4062 3052.98 L 4062.2 3053.39 L 4062.41 3053.6 L 4062.82 3053.8 L 4064.05 3054.21 L 4064.45 3054.41 L 4064.66 3054.62 L 4064.86 3055.03 L 4064.86 3055.64 L 4064.45 3056.05 L 4063.84 3056.25 L 4063.02 3056.25 L 4062.41 3056.05 L 4062 3055.64 M 4066.83 3051.96 L 4066.83 3055.44 L 4067.03 3056.05 L 4067.44 3056.25 L 4067.85 3056.25 M 4066.21 3053.39 L 4067.65 3053.39 M 4069.2 3054.62 L 4071.65 3054.62 L 4071.65 3054.21 L 4071.45 3053.8 L 4071.25 3053.6 L 4070.84 3053.39 L 4070.22 3053.39 L 4069.81 3053.6 L 4069.4 3054 L 4069.2 3054.62 L 4069.2 3055.03 L 4069.4 3055.64 L 4069.81 3056.05 L 4070.22 3056.25 L 4070.84 3056.25 L 4071.25 3056.05 L 4071.65 3055.64 M 4073 3053.39 L 4073 3057.69 M 4073 3054 L 4073.41 3053.6 L 4073.82 3053.39 L 4074.44 3053.39 L 4074.85 3053.6 L 4075.25 3054 L 4075.46 3054.62 L 4075.46 3055.03 L 4075.25 3055.64 L 4074.85 3056.05 L 4074.44 3056.25 L 4073.82 3056.25 L 4073.41 3056.05 L 4073 3055.64 M 4079.06 3054 L 4078.85 3053.6 L 4078.24 3053.39 L 4077.63 3053.39 L 4077.01 3053.6 L 4076.81 3054 L 4077.01 3054.41 L 4077.42 3054.62 L 4078.45 3054.82 L 4078.85 3055.03 L 4079.06 3055.44 L 4079.06 3055.64 L 4078.85 3056.05 L 4078.24 3056.25 L 4077.63 3056.25 L 4077.01 3056.05 L 4076.81 3055.64"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2704" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4079.055,3013.8"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1689"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="P1"
+       d="M 4079.055 3009.26 L 4079.055 3013.55 M 4079.055 3009.26 L 4080.895 3009.26 L 4081.505 3009.46 L 4081.715 3009.67 L 4081.915 3010.08 L 4081.915 3010.69 L 4081.715 3011.1 L 4081.505 3011.3 L 4080.895 3011.51 L 4079.055 3011.51 M 4083.265 3010.08 L 4083.675 3009.87 L 4084.295 3009.26 L 4084.295 3013.55"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2707" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4062,3135.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1782"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="Pulses"
+       d="M 4062 3130.96 L 4062 3135.25 M 4062 3130.96 L 4063.84 3130.96 L 4064.45 3131.16 L 4064.66 3131.37 L 4064.86 3131.78 L 4064.86 3132.39 L 4064.66 3132.8 L 4064.45 3133 L 4063.84 3133.21 L 4062 3133.21 M 4066.21 3132.39 L 4066.21 3134.44 L 4066.42 3135.05 L 4066.83 3135.25 L 4067.44 3135.25 L 4067.85 3135.05 L 4068.46 3134.44 M 4068.46 3132.39 L 4068.46 3135.25 M 4069.81 3130.96 L 4069.81 3135.25 M 4073.41 3133 L 4073.21 3132.6 L 4072.6 3132.39 L 4071.98 3132.39 L 4071.37 3132.6 L 4071.16 3133 L 4071.37 3133.41 L 4071.78 3133.62 L 4072.8 3133.82 L 4073.21 3134.03 L 4073.41 3134.44 L 4073.41 3134.64 L 4073.21 3135.05 L 4072.6 3135.25 L 4071.98 3135.25 L 4071.37 3135.05 L 4071.16 3134.64 M 4074.76 3133.62 L 4077.22 3133.62 L 4077.22 3133.21 L 4077.01 3132.8 L 4076.81 3132.6 L 4076.4 3132.39 L 4075.79 3132.39 L 4075.38 3132.6 L 4074.97 3133 L 4074.76 3133.62 L 4074.76 3134.03 L 4074.97 3134.64 L 4075.38 3135.05 L 4075.79 3135.25 L 4076.4 3135.25 L 4076.81 3135.05 L 4077.22 3134.64 M 4080.82 3133 L 4080.61 3132.6 L 4080 3132.39 L 4079.39 3132.39 L 4078.77 3132.6 L 4078.57 3133 L 4078.77 3133.41 L 4079.18 3133.62 L 4080.2 3133.82 L 4080.61 3134.03 L 4080.82 3134.44 L 4080.82 3134.64 L 4080.61 3135.05 L 4080 3135.25 L 4079.39 3135.25 L 4078.77 3135.05 L 4078.57 3134.64"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2710" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4079.055,3092.54"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1788"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="P2"
+       d="M 4079.055 3088 L 4079.055 3092.29 M 4079.055 3088 L 4080.895 3088 L 4081.505 3088.2 L 4081.715 3088.41 L 4081.915 3088.82 L 4081.915 3089.43 L 4081.715 3089.84 L 4081.505 3090.04 L 4080.895 3090.25 L 4079.055 3090.25 M 4083.475 3089.02 L 4083.475 3088.82 L 4083.675 3088.41 L 4083.885 3088.2 L 4084.295 3088 L 4085.105 3088 L 4085.515 3088.2 L 4085.725 3088.41 L 4085.925 3088.82 L 4085.925 3089.23 L 4085.725 3089.64 L 4085.315 3090.25 L 4083.265 3092.29 L 4086.135 3092.29"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2713" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4062,3215.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1881"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="Offset"
+       d="M 4063.23 3210.96 L 4062.82 3211.16 L 4062.41 3211.57 L 4062.2 3211.98 L 4062 3212.6 L 4062 3213.62 L 4062.2 3214.23 L 4062.41 3214.64 L 4062.82 3215.05 L 4063.23 3215.25 L 4064.05 3215.25 L 4064.45 3215.05 L 4064.86 3214.64 L 4065.07 3214.23 L 4065.27 3213.62 L 4065.27 3212.6 L 4065.07 3211.98 L 4064.86 3211.57 L 4064.45 3211.16 L 4064.05 3210.96 L 4063.23 3210.96 M 4068.26 3210.96 L 4067.85 3210.96 L 4067.44 3211.16 L 4067.24 3211.78 L 4067.24 3215.25 M 4066.62 3212.39 L 4068.05 3212.39 M 4071.25 3210.96 L 4070.84 3210.96 L 4070.43 3211.16 L 4070.22 3211.78 L 4070.22 3215.25 M 4069.61 3212.39 L 4071.04 3212.39 M 4074.85 3213 L 4074.64 3212.6 L 4074.03 3212.39 L 4073.41 3212.39 L 4072.8 3212.6 L 4072.6 3213 L 4072.8 3213.41 L 4073.21 3213.62 L 4074.23 3213.82 L 4074.64 3214.03 L 4074.85 3214.44 L 4074.85 3214.64 L 4074.64 3215.05 L 4074.03 3215.25 L 4073.41 3215.25 L 4072.8 3215.05 L 4072.6 3214.64 M 4076.2 3213.62 L 4078.65 3213.62 L 4078.65 3213.21 L 4078.45 3212.8 L 4078.24 3212.6 L 4077.83 3212.39 L 4077.22 3212.39 L 4076.81 3212.6 L 4076.4 3213 L 4076.2 3213.62 L 4076.2 3214.03 L 4076.4 3214.64 L 4076.81 3215.05 L 4077.22 3215.25 L 4077.83 3215.25 L 4078.24 3215.05 L 4078.65 3214.64 M 4080.61 3210.96 L 4080.61 3214.44 L 4080.82 3215.05 L 4081.23 3215.25 L 4081.64 3215.25 M 4080 3212.39 L 4081.43 3212.39"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2716" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4079.055,3171.28"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge1887"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="P3"
+       d="M 4079.055 3166.74 L 4079.055 3171.03 M 4079.055 3166.74 L 4080.895 3166.74 L 4081.505 3166.94 L 4081.715 3167.15 L 4081.915 3167.56 L 4081.915 3168.17 L 4081.715 3168.58 L 4081.505 3168.78 L 4080.895 3168.99 L 4079.055 3168.99 M 4083.675 3166.74 L 4085.925 3166.74 L 4084.705 3168.38 L 4085.315 3168.38 L 4085.725 3168.58 L 4085.925 3168.78 L 4086.135 3169.4 L 4086.135 3169.81 L 4085.925 3170.42 L 4085.515 3170.83 L 4084.905 3171.03 L 4084.295 3171.03 L 4083.675 3170.83 L 4083.475 3170.63 L 4083.265 3170.22"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2719" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4022,3360.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge3321"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="PulseOut2"
+       d="M 4022 3355.96 L 4022 3360.25 M 4022 3355.96 L 4023.84 3355.96 L 4024.45 3356.16 L 4024.66 3356.37 L 4024.86 3356.78 L 4024.86 3357.39 L 4024.66 3357.8 L 4024.45 3358 L 4023.84 3358.21 L 4022 3358.21 M 4026.21 3357.39 L 4026.21 3359.44 L 4026.42 3360.05 L 4026.83 3360.25 L 4027.44 3360.25 L 4027.85 3360.05 L 4028.46 3359.44 M 4028.46 3357.39 L 4028.46 3360.25 M 4029.81 3355.96 L 4029.81 3360.25 M 4033.41 3358 L 4033.21 3357.6 L 4032.6 3357.39 L 4031.98 3357.39 L 4031.37 3357.6 L 4031.16 3358 L 4031.37 3358.41 L 4031.78 3358.62 L 4032.8 3358.82 L 4033.21 3359.03 L 4033.41 3359.44 L 4033.41 3359.64 L 4033.21 3360.05 L 4032.6 3360.25 L 4031.98 3360.25 L 4031.37 3360.05 L 4031.16 3359.64 M 4034.76 3358.62 L 4037.22 3358.62 L 4037.22 3358.21 L 4037.01 3357.8 L 4036.81 3357.6 L 4036.4 3357.39 L 4035.79 3357.39 L 4035.38 3357.6 L 4034.97 3358 L 4034.76 3358.62 L 4034.76 3359.03 L 4034.97 3359.64 L 4035.38 3360.05 L 4035.79 3360.25 L 4036.4 3360.25 L 4036.81 3360.05 L 4037.22 3359.64 M 4039.8 3355.96 L 4039.39 3356.16 L 4038.98 3356.57 L 4038.77 3356.98 L 4038.57 3357.6 L 4038.57 3358.62 L 4038.77 3359.23 L 4038.98 3359.64 L 4039.39 3360.05 L 4039.8 3360.25 L 4040.61 3360.25 L 4041.02 3360.05 L 4041.43 3359.64 L 4041.64 3359.23 L 4041.84 3358.62 L 4041.84 3357.6 L 4041.64 3356.98 L 4041.43 3356.57 L 4041.02 3356.16 L 4040.61 3355.96 L 4039.8 3355.96 M 4043.19 3357.39 L 4043.19 3359.44 L 4043.4 3360.05 L 4043.8 3360.25 L 4044.42 3360.25 L 4044.83 3360.05 L 4045.44 3359.44 M 4045.44 3357.39 L 4045.44 3360.25 M 4047.4 3355.96 L 4047.4 3359.44 L 4047.61 3360.05 L 4048.02 3360.25 L 4048.43 3360.25 M 4046.79 3357.39 L 4048.22 3357.39 M 4049.98 3356.98 L 4049.98 3356.78 L 4050.19 3356.37 L 4050.39 3356.16 L 4050.8 3355.96 L 4051.62 3355.96 L 4052.03 3356.16 L 4052.23 3356.37 L 4052.44 3356.78 L 4052.44 3357.19 L 4052.23 3357.6 L 4051.82 3358.21 L 4049.78 3360.25 L 4052.64 3360.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2722" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4019.409,3372.382"
+     c_rotation="90"
+     c_mirror="0"
+     id="gge3327"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="J7"
+       d="M 4014.8694 3370.332 L 4018.1394 3370.332 L 4018.7594 3370.542 L 4018.9594 3370.742 L 4019.1594 3371.152 L 4019.1594 3371.562 L 4018.9594 3371.972 L 4018.7594 3372.182 L 4018.1394 3372.382 L 4017.7294 3372.382 M 4014.8694 3366.122 L 4019.1594 3368.172 M 4014.8694 3368.982 L 4014.8694 3366.122"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2725" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="3978,3347.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge3393"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="PulseOut2"
+       d="M 3978 3342.96 L 3978 3347.25 M 3978 3342.96 L 3979.84 3342.96 L 3980.45 3343.16 L 3980.66 3343.37 L 3980.86 3343.78 L 3980.86 3344.39 L 3980.66 3344.8 L 3980.45 3345 L 3979.84 3345.21 L 3978 3345.21 M 3982.21 3344.39 L 3982.21 3346.44 L 3982.42 3347.05 L 3982.83 3347.25 L 3983.44 3347.25 L 3983.85 3347.05 L 3984.46 3346.44 M 3984.46 3344.39 L 3984.46 3347.25 M 3985.81 3342.96 L 3985.81 3347.25 M 3989.41 3345 L 3989.21 3344.6 L 3988.6 3344.39 L 3987.98 3344.39 L 3987.37 3344.6 L 3987.16 3345 L 3987.37 3345.41 L 3987.78 3345.62 L 3988.8 3345.82 L 3989.21 3346.03 L 3989.41 3346.44 L 3989.41 3346.64 L 3989.21 3347.05 L 3988.6 3347.25 L 3987.98 3347.25 L 3987.37 3347.05 L 3987.16 3346.64 M 3990.76 3345.62 L 3993.22 3345.62 L 3993.22 3345.21 L 3993.01 3344.8 L 3992.81 3344.6 L 3992.4 3344.39 L 3991.79 3344.39 L 3991.38 3344.6 L 3990.97 3345 L 3990.76 3345.62 L 3990.76 3346.03 L 3990.97 3346.64 L 3991.38 3347.05 L 3991.79 3347.25 L 3992.4 3347.25 L 3992.81 3347.05 L 3993.22 3346.64 M 3995.8 3342.96 L 3995.39 3343.16 L 3994.98 3343.57 L 3994.77 3343.98 L 3994.57 3344.6 L 3994.57 3345.62 L 3994.77 3346.23 L 3994.98 3346.64 L 3995.39 3347.05 L 3995.8 3347.25 L 3996.61 3347.25 L 3997.02 3347.05 L 3997.43 3346.64 L 3997.64 3346.23 L 3997.84 3345.62 L 3997.84 3344.6 L 3997.64 3343.98 L 3997.43 3343.57 L 3997.02 3343.16 L 3996.61 3342.96 L 3995.8 3342.96 M 3999.19 3344.39 L 3999.19 3346.44 L 3999.4 3347.05 L 3999.8 3347.25 L 4000.42 3347.25 L 4000.83 3347.05 L 4001.44 3346.44 M 4001.44 3344.39 L 4001.44 3347.25 M 4003.4 3342.96 L 4003.4 3346.44 L 4003.61 3347.05 L 4004.02 3347.25 L 4004.43 3347.25 M 4002.79 3344.39 L 4004.22 3344.39 M 4005.98 3343.98 L 4005.98 3343.78 L 4006.19 3343.37 L 4006.39 3343.16 L 4006.8 3342.96 L 4007.62 3342.96 L 4008.03 3343.16 L 4008.23 3343.37 L 4008.44 3343.78 L 4008.44 3344.19 L 4008.23 3344.6 L 4007.82 3345.21 L 4005.78 3347.25 L 4008.64 3347.25"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_name"
+       id="path2728" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="4028,3336.5"
+     c_rotation="0"
+     c_mirror="0"
+     id="gge3399"
+     locked="0"
+     layerid="3"
+     c_shapetype="group"
+     display="none">
+    <path
+       c_fontsize="4.5"
+       c_fontfamily=""
+       c_text="LED3"
+       d="M 4028 3331.96 L 4028 3336.25 M 4028 3336.25 L 4030.45 3336.25 M 4031.8 3331.96 L 4031.8 3336.25 M 4031.8 3331.96 L 4034.46 3331.96 M 4031.8 3334 L 4033.44 3334 M 4031.8 3336.25 L 4034.46 3336.25 M 4035.81 3331.96 L 4035.81 3336.25 M 4035.81 3331.96 L 4037.25 3331.96 L 4037.86 3332.16 L 4038.27 3332.57 L 4038.47 3332.98 L 4038.68 3333.6 L 4038.68 3334.62 L 4038.47 3335.23 L 4038.27 3335.64 L 4037.86 3336.05 L 4037.25 3336.25 L 4035.81 3336.25 M 4040.44 3331.96 L 4042.69 3331.96 L 4041.46 3333.6 L 4042.07 3333.6 L 4042.48 3333.8 L 4042.69 3334 L 4042.89 3334.62 L 4042.89 3335.03 L 4042.69 3335.64 L 4042.28 3336.05 L 4041.66 3336.25 L 4041.05 3336.25 L 4040.44 3336.05 L 4040.23 3335.85 L 4040.03 3335.44"
+       fill="none"
+       stroke-width="0.6"
+       c_note="note_pre"
+       id="path2731" />
+  </g>
+  <path
+     d="M 4038.982 3120.12 A 7.874 7.874 0 1 0 4029.002 3120.12"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="3"
+     id="gge1035" />
+  <path
+     d="M 4133.982 3351.12 A 7.874 7.874 0 1 0 4124.002 3351.12"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="3"
+     id="gge1119" />
+  <path
+     d="M 4033.982 3351.12 A 7.874 7.874 0 1 0 4024.002 3351.12"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="3"
+     id="gge4995" />
+  <circle
+     cx="4079.055"
+     cy="3033.8"
+     r="10"
+     stroke-width="1"
+     fill="none"
+     layerid="3"
+     id="gge1698"
+     locked="0" />
+  <circle
+     cx="4079.055"
+     cy="3112.54"
+     r="10"
+     stroke-width="1"
+     fill="none"
+     layerid="3"
+     id="gge1797"
+     locked="0" />
+  <circle
+     cx="4079.055"
+     cy="3191.28"
+     r="10"
+     stroke-width="1"
+     fill="none"
+     layerid="3"
+     id="gge1896"
+     locked="0" />
+  <path
+     d="M 4086.9857 3168.5664 L 4091.7978 3168.5664 Q 4093.4962 3168.5664 4093.4962 3166.8505 L 4093.4962 3162.0469 L 4086.9857 3162.0469 L 4086.9857 3163.7627 L 4091.4462 3163.7627 L 4091.4462 3164.4488 L 4086.9857 3164.4488 L 4086.9857 3166.1644 L 4091.4462 3166.1644 L 4091.4462 3166.516 Q 4091.4462 3166.8505 4091.103 3166.8505 L 4086.9857 3166.8505 L 4086.9857 3168.5664 M 4083.5288 3166.1043 Q 4083.9319 3166.1043 4084.5324 3165.9329 Q 4085.1758 3165.7531 4085.1758 3164.8779 Q 4085.1758 3163.9943 4084.5838 3163.4882 Q 4084.3007 3163.2567 4083.9748 3163.0509 Q 4083.6488 3162.8456 4083.2542 3162.6905 Q 4082.5079 3162.4246 4081.6588 3162.2617 Q 4080.8095 3162.0987 4079.8402 3162.0471 L 4079.8402 3163.7629 Q 4079.8994 3163.7417 4079.9524 3163.7417 L 4080.0983 3163.7417 Q 4080.3036 3163.7417 4080.6303 3163.784 Q 4080.9648 3163.8179 4081.4279 3163.8962 Q 4082.6031 3164.1107 4082.6031 3164.3593 L 4082.582 3164.3932 L 4081.2096 3164.3932 Q 4079.8199 3164.3932 4079.8199 3165.431 L 4079.8199 3167.3525 Q 4079.8199 3168.5621 4081.2694 3168.5621 L 4086.3219 3168.5621 L 4086.3219 3166.855 L 4082.0331 3166.855 L 4082.0331 3166.1001 L 4083.5288 3166.1043 M 4076.8723 3168.5748 Q 4077.9789 3168.524 4078.5449 3168.1116 Q 4079.1197 3167.6912 4079.1197 3166.8851 L 4079.1197 3163.7282 Q 4079.1197 3162.0469 4076.8723 3162.0469 L 4074.6419 3162.0469 Q 4072.2573 3162.0469 4072.2573 3163.7627 L 4072.2573 3166.9792 Q 4072.2573 3168.5748 4074.6076 3168.5748 L 4076.8723 3168.5748 M 4076.4605 3163.7882 Q 4077.0523 3163.7882 4077.0523 3164.4488 L 4077.0523 3166.1815 Q 4077.0523 3166.825 4076.3748 3166.8935 L 4074.9851 3166.8935 Q 4074.2818 3166.8724 4074.2818 3166.2759 L 4074.2818 3164.4146 Q 4074.3241 3163.8054 4074.9679 3163.7627 L 4076.3575 3163.7627 L 4076.4605 3163.7882 M 4068.7833 3166.1043 Q 4069.1864 3166.1043 4069.7868 3165.9329 Q 4070.4302 3165.7531 4070.4302 3164.8779 Q 4070.4302 3163.9943 4069.8383 3163.4882 Q 4069.5551 3163.2567 4069.2293 3163.0509 Q 4068.9032 3162.8456 4068.5086 3162.6905 Q 4067.7624 3162.4246 4066.9132 3162.2617 Q 4066.0639 3162.0987 4065.0947 3162.0471 L 4065.0947 3163.7629 Q 4065.1539 3163.7417 4065.2068 3163.7417 L 4065.3528 3163.7417 Q 4065.558 3163.7417 4065.8847 3163.784 Q 4066.2192 3163.8179 4066.6824 3163.8962 Q 4067.8576 3164.1107 4067.8576 3164.3593 L 4067.8364 3164.3932 L 4066.464 3164.3932 Q 4065.0744 3164.3932 4065.0744 3165.431 L 4065.0744 3167.3525 Q 4065.0744 3168.5621 4066.5239 3168.5621 L 4071.5764 3168.5621 L 4071.5764 3166.855 L 4067.2876 3166.855 L 4067.2876 3166.1001 L 4068.7833 3166.1043 M 4098.24 3154.6956 Q 4098.2739 3154.0008 4098.7633 3153.2972 Q 4099.2692 3152.5681 4099.8354 3152.0965 Q 4100.4187 3151.5904 4101.1737 3151.2815 Q 4101.92 3151.0157 4102.7691 3150.8526 Q 4103.6184 3150.6897 4104.579 3150.6382 L 4104.579 3152.3538 Q 4104.5282 3152.3327 4104.4753 3152.3327 L 4104.3293 3152.3327 Q 4104.1148 3152.3327 4103.7803 3152.3749 Q 4103.4542 3152.4088 4102.9826 3152.4871 Q 4101.833 3152.7014 4101.833 3152.9331 Q 4101.833 3152.9754 4101.833 3152.9839 L 4103.2054 3152.9839 Q 4104.5951 3152.9839 4104.5951 3154.0218 L 4104.5951 3155.9434 Q 4104.5951 3157.1529 4103.1539 3157.1529 L 4098.093 3157.1529 L 4098.093 3155.4457 L 4102.3819 3155.4457 L 4102.3819 3154.691 L 4098.24 3154.6956 M 4095.3235 3158.0153 L 4095.3235 3153.0228 Q 4095.3235 3152.3366 4094.6372 3152.3366 L 4093.2561 3152.3366 L 4093.2561 3157.166 L 4091.206 3157.166 L 4091.206 3150.6211 L 4095.6665 3150.6211 Q 4097.3821 3150.6211 4097.3821 3152.3366 L 4097.3821 3158.0153 L 4095.3235 3158.0153 M 4090.5198 3150.6382 L 4085.7246 3150.6382 Q 4084.0091 3150.6382 4084.0091 3152.3538 L 4084.0091 3157.1575 L 4090.5198 3157.1575 L 4090.5198 3155.4419 L 4086.0679 3155.4419 L 4086.0679 3154.7555 L 4090.5198 3154.7555 L 4090.5198 3153.04 L 4086.0679 3153.04 L 4086.0679 3152.697 Q 4086.0679 3152.3538 4086.4108 3152.3538 L 4090.5198 3152.3538 L 4090.5198 3150.6382 M 4081.2642 3153.3916 L 4081.2642 3153.04 Q 4081.2642 3152.3538 4080.578 3152.3538 L 4079.2054 3152.3538 L 4079.2054 3153.3916 L 4081.2642 3153.3916 M 4079.7029 3155.133 L 4079.1968 3155.133 L 4079.1968 3157.166 L 4077.1467 3157.166 L 4077.1467 3150.6382 L 4081.6074 3150.6382 Q 4083.3401 3150.6382 4083.3401 3152.3538 L 4083.3401 3153.5031 Q 4083.3062 3155.1074 4081.8304 3155.1074 L 4083.8718 3158.0153 L 4081.7445 3158.0153 L 4079.7029 3155.133 M 4070.6275 3157.1575 L 4072.6862 3157.1575 L 4072.6862 3155.2445 L 4074.3675 3154.8327 L 4074.3675 3158.0324 L 4076.4605 3158.0324 L 4076.4605 3150.6382 L 4074.4189 3150.6382 L 4074.4189 3153.04 L 4072.6862 3153.5289 L 4072.6862 3150.6382 L 4070.6275 3150.6382 L 4070.6275 3157.1575 M 4069.9326 3150.6382 L 4065.4721 3150.6382 Q 4063.7566 3150.6382 4063.7566 3152.3538 L 4063.7566 3157.1575 L 4065.8151 3157.1575 L 4065.8151 3155.1074 L 4067.8654 3155.1074 L 4067.8654 3158.0153 L 4069.9326 3158.0153 L 4069.9326 3150.6382 M 4065.8151 3153.3916 L 4065.8151 3153.04 Q 4065.8151 3152.3538 4066.5015 3152.3538 L 4067.8738 3152.3538 L 4067.8738 3153.3916 L 4065.8151 3153.3916 M 4061.1574 3155.4419 L 4062.873 3155.4419 L 4062.873 3157.1575 L 4061.1574 3157.1575 L 4061.1574 3155.4419 M 4053.9605 3157.1575 L 4058.7726 3157.1575 Q 4060.4712 3157.1575 4060.4712 3155.4419 L 4060.4712 3149.669 L 4058.421 3149.669 L 4058.421 3154.7555 Q 4058.421 3155.4419 4057.7348 3155.4419 L 4053.9605 3155.4419 L 4053.9605 3157.1575 M 4133.9949 3156.217 L 4133.9949 3143.8653 Q 4133.9949 3139.446 4129.5759 3139.446 L 4117.2021 3139.446 L 4117.2021 3156.217 L 4121.6213 3156.217 L 4121.6213 3144.7491 L 4123.3889 3144.7491 L 4123.3889 3156.217 L 4127.8081 3156.217 L 4127.8081 3144.7491 L 4128.6919 3144.7491 Q 4129.5759 3144.7491 4129.5759 3145.6329 L 4129.5759 3156.217 L 4133.9949 3156.217 M 4121.6213 3132.7289 L 4121.6213 3137.1482 L 4117.2021 3137.1482 L 4117.2021 3132.7289 L 4121.6213 3132.7289 M 4117.2021 3130.9611 L 4117.2021 3118.6094 Q 4117.2021 3114.1902 4121.6213 3114.1902 L 4126.0406 3114.1902 Q 4133.9949 3114.1902 4133.9949 3123.0287 L 4133.9949 3130.9611 L 4129.5759 3130.9611 L 4129.5759 3123.0287 Q 4129.5759 3119.4934 4126.0406 3119.4934 L 4123.3889 3119.4934 Q 4121.6433 3119.4934 4121.6433 3121.1948 L 4121.6433 3130.9611 L 4117.2021 3130.9611 M 4121.6213 3107.4731 L 4121.6213 3111.8923 L 4117.2021 3111.8923 L 4117.2021 3107.4731 L 4121.6213 3107.4731 M 4117.1801 3089.7961 L 4117.1801 3101.2862 Q 4117.1801 3105.6612 4121.4666 3105.6612 L 4124.4054 3105.6612 Q 4127.9408 3105.6612 4128.6477 3102.5236 L 4130.504 3102.5236 Q 4134.0392 3102.5236 4134.0392 3098.8115 L 4134.0392 3089.7961 L 4117.1801 3089.7961 M 4124.2507 3100.4024 L 4123.3669 3100.4024 Q 4121.5991 3100.4024 4121.5991 3098.6346 L 4121.5991 3095.0994 L 4124.2507 3095.0994 L 4124.2507 3100.4024 M 4127.9628 3098.9439 L 4127.9628 3095.0772 L 4130.2829 3095.0772 L 4130.2829 3097.6623 Q 4130.2829 3098.9439 4128.7362 3098.9439 L 4127.9628 3098.9439 M 4127.5872 3069.1364 Q 4127.5872 3070.1087 4127.1674 3071.7218 Q 4126.7255 3073.379 4124.4496 3073.379 Q 4122.1958 3073.379 4120.8922 3071.8543 Q 4120.2735 3071.1251 4119.743 3070.2855 Q 4119.2128 3069.4457 4118.815 3068.4294 Q 4118.1301 3066.507 4117.7104 3064.3196 Q 4117.2906 3062.1319 4117.1801 3059.6352 L 4121.5991 3059.6352 Q 4121.5335 3059.8781 4121.5335 3060.3643 Q 4121.5335 3061.4691 4121.9533 3063.7229 Q 4122.4837 3066.7501 4123.1244 3066.7501 L 4123.2133 3066.7057 L 4123.2133 3063.1702 Q 4123.2133 3059.5908 4125.9089 3059.5908 L 4130.8364 3059.5908 Q 4133.974 3059.6119 4133.974 3063.3249 L 4133.974 3076.3395 L 4129.577 3076.3395 L 4129.577 3065.2916 L 4127.5883 3065.2916 L 4127.5872 3069.1364 M 4123.5436 3050.5978 Q 4123.5436 3051.6363 4123.9856 3053.183 Q 4124.4496 3054.8404 4126.7034 3054.8404 Q 4128.9793 3054.8404 4130.2829 3053.3157 Q 4130.8795 3052.5866 4131.4098 3051.7468 Q 4131.94 3050.9072 4132.3378 3049.8907 Q 4133.0229 3047.9684 4133.4427 3045.7808 Q 4133.8625 3043.5934 4133.9949 3041.0965 L 4129.5759 3041.0965 Q 4129.6204 3041.2509 4129.6204 3041.3838 L 4129.6204 3041.7593 Q 4129.6204 3042.2898 4129.5104 3043.1294 Q 4129.4215 3043.9912 4129.2232 3045.1844 Q 4128.6708 3048.2116 4128.0299 3048.2116 L 4127.941 3048.1671 L 4127.941 3044.6317 Q 4127.941 3041.0522 4125.2674 3041.0522 L 4120.3179 3041.0522 Q 4117.2023 3041.0734 4117.2023 3044.7863 L 4117.2023 3057.801 L 4121.5993 3057.801 L 4121.5993 3046.7529 L 4123.5438 3046.7529 L 4123.5436 3050.5978 M 4117.2021 3022.4254 L 4117.2021 3034.8214 Q 4117.2021 3039.1964 4121.6213 3039.1964 L 4133.9949 3039.1964 L 4133.9949 3022.4254 L 4129.5759 3022.4254 L 4129.5759 3033.9154 L 4127.8081 3033.9154 L 4127.8081 3022.4254 L 4123.3889 3022.4254 L 4123.3889 3033.9154 L 4122.4831 3033.9154 Q 4121.6213 3033.9154 4121.6213 3033.0315 L 4121.6213 3022.4254 L 4117.2021 3022.4254"
+     layerid="3"
+     stroke="none"
+     c_shapetype="line"
+     id="gge5686" />
+</svg>
