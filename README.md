@@ -10,7 +10,7 @@ Of Course Not!<br>
 
 This module is an inexpensive DIY Arduino Nano based module. Of course it could easily be built with an ATMEGA 328p or other similar IC, but you would need to add the crystal and associated parts.<br>
 
-Depending on where you source the Nano, it should run less than $12 not counting a panel. <br>
+Depending on where you source the Nano, it should run less than $20 not counting a panel. <br>
 
 Standard Disclaimer<br>
 This is a DIY project, and you assume all responsibility for the use and construction of it.<br>
