@@ -17,7 +17,8 @@ This is a DIY project, and you assume all responsibility for the use and constru
 
 There are a lot of websites that explain Euclidean patterns, so I will not go into an explanation here.<br>
 
-The module has a clock and reset input, along with a pulse output.<br>
+The module has two inputs: Clock and Reset.<br>
+There are two outputs: Pulse out and AuxPulseOut<br>
 There are three pots that change the number of steps, the number of pulses, and the offset.<br>
 There is also a change LED that blinks each time a knob is turned to a new position<br>
 
@@ -26,8 +27,8 @@ There are three CV in jacks. The CV present at these jacks is added to the knobs
 There is a 2x5 pin header that lets you set options using jumpers.
 By default, the module outputs 10ms pulses. This can be changed with the jumpers or in software.<br>
 
-The steps go from 1 to 16<br>
-The pulses go from 0 to 16<br>
+The steps go from 1 to 16 or 1 to 32 (depending on jumper setting).<br>
+The pulses go from 0 to 16 or 1 to 32<br>
 The offset has two modes. In the first mode, the offset goes from 0 to the number of steps -1. In the second mode, the offset is either 0 or 1, so it just shifts the pulse by one.<br>
 
 A few design notes:
